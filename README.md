@@ -50,6 +50,14 @@ A CONTRIBUTING.md file provides guidance to contributors about best practices fo
 
 Similarly to a journalistic styleguide, a programming styleguide illustrates the project's preferred coding conventions.
 
+## ISSUES_TEMPLATES.md and PULL_REQUESTS_TEMPLATES.md
+
+
+
+* [GitHub Issue and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates)
+* [Creating an Issue Template for Your Repository](https://help.github.com/articles/creating-an-issue-template-for-your-repository)
+* [Creating an Pull Request Template for Your Repository](https://help.github.com/articles/creating-a-pull-request-template-for-your-repository)
+
 ## CHANGELOG.md
 
 A [CHANGELOG.md](https://en.wikipedia.org/wiki/Changelog) file lists notable changes made to the project. 
@@ -64,6 +72,7 @@ A RELEASING.md file gives instructions for how to complete a software release.
 
 * [Understanding the GitHub Flow](https://guides.github.com/introduction/flow)
 * [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
+* [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver)
 
 ## Special Features
 
@@ -119,12 +128,6 @@ Access Control in GitHub
 GitHub Organizations and Teams
 * Organizations are for code owned by groups (for companies, OSS projects)
 * Teams allow easier management of permissions (add a developer to a team, and then give team access to a number of repos)
-
-## ISSUES_TEMPLATES.md and PULL_REQUESTS_TEMPLATES.md
-
-* [GitHub Issue and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates)
-* [Creating an Issue Template for Your Repository](https://help.github.com/articles/creating-an-issue-template-for-your-repository)
-* [Creating an Pull Request Template for Your Repository](https://help.github.com/articles/creating-a-pull-request-template-for-your-repository)
 
 ## Issues
 
