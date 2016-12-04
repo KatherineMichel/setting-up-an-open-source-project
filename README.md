@@ -56,10 +56,7 @@ GitHub Organizations and Teams
 
 ### README.md
 
-* Badges
-* Project explanation/structure
-* Installation guidance
-* Credit to contributors
+* [Example README Structure](https://github.com/KatherineMichel/setting-up-an-open-source-project/blob/master/example-README-structure.md)
 
 Set up wiki when README too big
 * settings/options, other option -> Restrict editing to collaborators only
