@@ -8,18 +8,30 @@
 https://creativecommons.org/licenses/by-nd/3.0/
 -->
 
-## Example Open Source Project Flow
+## Example Open Source Project Features and Flow
+
+* [GitHub Features (Code Review, ect.)](https://github.com/features)
+* [Understanding the GitHub Flow](https://guides.github.com/introduction/flow)
+
+<!--
+https://help.github.com/articles/about-repository-graphs#traffic
+
+https://guides.github.com/features/issues
+https://github.com/blog/957-introducing-issue-mentions
+
+Projects, Milestones
+https://help.github.com/articles/tracking-the-progress-of-your-work-with-projects
+https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests
+https://help.github.com/articles/associating-milestones-with-issues-and-pull-requests
+https://github.com/blog/2178-multiple-assignees-on-issues-and-pull-requests
+-->
 
 ## Open Source Project Documentation
 
 ### README.md
 
-GitHub Markdown Documentation
-* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
-* [GitHub Mastering Markdown Tutorial](https://guides.github.com/features/mastering-markdown)
-
 * Badges
-* Project explanation
+* Project explanation/structure
 * Installation guidance
 * Credit to contributors
 
@@ -97,19 +109,6 @@ GitHub Organizations and Teams
 
 ## Issues
 
-<!--
-* Labels- Beginner friendly
-
-Listing issues- issues tab, open/closed, filtering issues
-Labels- example: features and bugs, including multiple labels
-Assign, milestone, issue notifications, subscribe/unsubscribe to an issue
-Respond by replying to any email about that issue
-
-Issues- keyboard shortcuts
-New issue, drop down list of developers, select/create new milestone
-Rails repo issues- filter issues by milestone, labels
--->
-
 Enable Issues to:
 * Track bugs
 * Manage features
@@ -129,6 +128,21 @@ Mention an issue in a commit and will show up in the issue and notify anyone sub
 Close to issue with a commit: include "fixes" "closes" or "resolves" to auto close the issue when merged in default branch (probably master)
 
     $ git commit -m "Fixes #1"
+
+Labels
+* Label examples: Help Wanted, Beginner Friendly
+* Label examples: Features, Bugs, Enhancements
+
+<!--
+Listing issues- issues tab, open/closed, filtering issues
+Labels- including multiple labels
+Assign, milestone, issue notifications, subscribe/unsubscribe to an issue
+Respond by replying to any email about that issue
+
+Issues- keyboard shortcuts
+New issue, drop down list of developers, select/create new milestone
+Rails repo issues- filter issues by milestone, labels
+-->
 
 ## Roles
 
@@ -150,6 +164,10 @@ Helpful Info
 Mentors
 * Include mentor list if applicable
 
+## Helpful Resources
+
+* [GitHub Blog](https://github.com/blog) 
+
 Git and GitHub Documentation
 * [Git Homepage](https://git-scm.com)
 * [Set Up Git](https://help.github.com/articles/set-up-git)
@@ -166,23 +184,11 @@ Git Cheat Sheets and Tutorials
 * [Digital Ocean Git Tutorial Series](https://www.digitalocean.com/community/tutorial_series/introduction-to-git-installation-usage-and-branches)
 * [Bitbucket Learn Git with Bitbucket Cloud](https://confluence.atlassian.com/bitbucket/tutorial-learn-git-with-bitbucket-cloud-759857287.html) 
 
-## Other Helpful Resources
-* [GitHub Blog](https://github.com/blog) 
-
+GitHub Markdown Documentation
+* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
+* [GitHub Mastering Markdown Tutorial](https://guides.github.com/features/mastering-markdown)
 
 <!--
-* [GitHub Features (Code Review, ect.)](https://github.com/features)
-https://guides.github.com/introduction/flow
-https://help.github.com/articles/about-repository-graphs#traffic
-https://help.github.com/articles/tracking-the-progress-of-your-work-with-projects
-
-https://guides.github.com/features/issues
-https://github.com/blog/957-introducing-issue-mentions
-
-https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests
-https://help.github.com/articles/associating-milestones-with-issues-and-pull-requests
-https://github.com/blog/2178-multiple-assignees-on-issues-and-pull-requests
-
 https://github.com/blog/2097-improved-commenting-with-markdown
 
 http://jlord.us/git-it
@@ -235,6 +241,8 @@ https://plus.google.com/events/ca9n7iklbra4i67te8uh55468n0
 
 https://github.com/pybee/voc/wiki/Your-first-VOC-contribution
 
+https://medium.com/@kentcdodds/what-open-source-project-should-i-contribute-to-7d50ecfe1cb4#.sdw2t63pw
+
 Start contributing to open source
 * Do a GitHub search such as ["pull requests welcome"](https://github.com/search?utf8=%E2%9C%93&q=pull+requests+welcome)
 https://github.com/search?utf8=%E2%9C%93&q=help+wanted
@@ -242,18 +250,15 @@ https://github.com/search?p=4&q=label%3A%22beginner%22&ref=searchresults&state=o
 https://github.com/search?utf8=✓&q=label%3A%22help+wanted%22&type=Issues&ref=searchresults
 https://github.com/search?l=Ruby&q=label%3A%22help+wanted%22&ref=searchresults&type=Issues&utf8=✓
 
-https://medium.com/@kentcdodds/what-open-source-project-should-i-contribute-to-7d50ecfe1cb4#.sdw2t63pw
-https://github.com/jfmengels/all-contributors-cli
-
 * [Jekyll Code of Conduct GitHub](https://github.com/jekyll/jekyll/blob/master/CONDUCT.md)
 * [Rails Code of Conduct GitHub](https://github.com/rails/rails/blob/master/CODE_OF_CONDUCT.md)
 https://github.com/HackathonHackers/code-of-conduct
 
-
 #### Git and Markdown
 
-Learn X in Y Minutes Git
+Learn X in Y Minutes
 * [Learn X in Y Minutes Git](https://learnxinyminutes.com/docs/git)
+* [Learn X in Y Minutes Markdown](https://learnxinyminutes.com/docs/markdown) 
 
 https://github.com/jlord/git-it
 
@@ -269,7 +274,5 @@ https://github.com/git-ftp
 https://github.com/github/git-lfs
 https://git-lfs.github.com
 
-Markdown
-* [Learn X in Y Minutes Markdown](https://learnxinyminutes.com/docs/markdown) 
 * [Enterprise Markdown Cheat Sheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
 --> 
