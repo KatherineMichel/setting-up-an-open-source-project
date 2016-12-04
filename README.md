@@ -52,11 +52,15 @@ GitHub Organizations and Teams
 * Organizations are for code owned by groups (for companies, OSS projects)
 * Teams allow easier management of permissions (add a developer to a team, and then give team access to a number of repos)
 
-## Open Source Project Documentation
-
-### README.md
+## README.md
 
 * [Example README Structure](https://github.com/KatherineMichel/setting-up-an-open-source-project/blob/master/example-README-structure.md)
+
+Fantastic README Examples
+* [Hackathon Starter](https://github.com/sahat/hackathon-starter)
+* [Megaboilerplate](https://github.com/sahat/megaboilerplate)
+
+## Wiki
 
 Set up wiki when README too big
 * settings/options, other option -> Restrict editing to collaborators only
@@ -64,33 +68,29 @@ Set up wiki when README too big
 * Link across pages using page name as anchor
 * Badges
 
-Fantastic README Examples
-* [Hackathon Starter](https://github.com/sahat/hackathon-starter)
-* [Megaboilerplate](https://github.com/sahat/megaboilerplate)
-
-### LICENSE.md
+## LICENSE.md
 
 * [GitHub Choose a License](http://choosealicense.com)
 * [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing) 
 
-### .gitignore
+## .gitignore
 
 * [Git Ignore GitHub](https://github.com/github/gitignore) 
  
  
  
-### CODE_OF_CONDUCT.md
+## CODE_OF_CONDUCT.md
 
 * [Adding a Code of Conduct to Your Project](https://help.github.com/articles/adding-a-code-of-conduct-to-your-project)
 
-### CONTRIBUTING.md
+## CONTRIBUTING.md
 
 * [Setting Guidelines for Repository Contributors](https://help.github.com/articles/setting-guidelines-for-repository-contributors)
 
 Types of Info to Include
 * Installation guidance
 
-### Styleguide
+## Styleguide
 
 
 
@@ -99,23 +99,23 @@ Types of Info to Include
 
 * [GitHub Issue and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates)
 
-### ISSUES_TEMPLATES.md
+## ISSUES_TEMPLATES.md
 
 * [Creating an Issue Template for Your Repository](https://help.github.com/articles/creating-an-issue-template-for-your-repository)
 
 Types of Info to Include
 * Issues Guidance
 
-### PULL_REQUESTS_TEMPLATES.md
+## PULL_REQUESTS_TEMPLATES.md
 
 * [Creating an Pull Request Template for Your Repository](https://help.github.com/articles/creating-a-pull-request-template-for-your-repository)
 
 Types of Info to Include
 * Pull request Guidance
 
-### CHANGELOG.md
+## CHANGELOG.md
 
-### RELEASING.md
+## RELEASING.md
 
 
 ## Issues
