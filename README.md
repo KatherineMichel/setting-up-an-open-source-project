@@ -69,3 +69,13 @@ Close to issue with a commit: include "fixes" "closes" or "resolves" to auto clo
 
     $ git commit -m "Fixes #1"
 
+## New Contributors
+
+GitHub Documentation
+* [Git Homepage](https://git-scm.com)
+* [Set Up Git](https://help.github.com/articles/set-up-git)
+* [GitHub Hello World Tutorial](https://guides.github.com/activities/hello-world)
+* [GitHub Help](https://help.github.com)  
+* [GitHub Training](http://training.github.com)  
+* [GitHub Bootcamp](https://help.github.com/categories/bootcamp)  
+* [GitHub Guides](https://guides.github.com) 
