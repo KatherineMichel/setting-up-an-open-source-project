@@ -15,19 +15,48 @@ Set up wiki when README too big
 * Link across pages using page name as anchor
 * Badges
 
+Fantastic README Examples
+* [Hackathon Starter](https://github.com/sahat/hackathon-starter)
+* [Megaboilerplate](https://github.com/sahat/megaboilerplate)
+
 ### LICENSE.md
+
+* [GitHub Choose a License](http://choosealicense.com)
+* [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing) 
+
 ### .gitignore
+
+* [Git Ignore GitHub](https://github.com/github/gitignore) 
+ 
 ### CODE_OF_CONDUCT.md
+
+* [Adding a Code of Conduct to Your Project](https://help.github.com/articles/adding-a-code-of-conduct-to-your-project)
+
 ### CONTRIBUTING.md
 
+* [Setting Guidelines for Repository Contributors](https://help.github.com/articles/setting-guidelines-for-repository-contributors)
+
+Types of Info Included
 * Installation guidance
 
 ### Styleguide
-### ISSUES_TEMPLATES.md
+
+### Templates
+
+<!--
+https://github.com/blog/2111-issue-and-pull-request-templates
+-->
+
+#### ISSUES_TEMPLATES.md
+
+<!--
+https://help.github.com/articles/creating-an-issue-template-for-your-repository
+https://help.github.com/articles/creating-a-pull-request-template-for-your-repository
+-->
 
 * Issues Guidance
 
-### PULL_REQUESTS_TEMPLATES.md
+#### PULL_REQUESTS_TEMPLATES.md
 
 * Pull request Guidance
 
@@ -98,6 +127,9 @@ Close to issue with a commit: include "fixes" "closes" or "resolves" to auto clo
 
 Ideally, make project welcoming to newcomers, with user-friendly documentation
 
+Helpful Info
+* [Helping People Contribute to Your Project](https://help.github.com/articles/helping-people-contribute-to-your-project)
+
 Mentors
 * Include mentor list if applicable
 
@@ -124,12 +156,6 @@ http://slides.com/kentcdodds/1st-pr#/
 
 https://guides.github.com/features/issues
 https://github.com/blog/957-introducing-issue-mentions
-
-https://github.com/blog/2111-issue-and-pull-request-templates
-https://help.github.com/articles/helping-people-contribute-to-your-project/
-https://help.github.com/articles/creating-an-issue-template-for-your-repository
-https://help.github.com/articles/creating-a-pull-request-template-for-your-repository
-https://help.github.com/articles/setting-guidelines-for-repository-contributors
 
 https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests
 https://help.github.com/articles/associating-milestones-with-issues-and-pull-requests
@@ -190,8 +216,6 @@ https://github.com/HackathonHackers/code-of-conduct
 
 
 #### Git and Markdown
-
-https://help.github.com/articles/adding-a-code-of-conduct-to-your-project
 
 Learn X in Y Minutes Git
 * [Learn X in Y Minutes Git](https://learnxinyminutes.com/docs/git)
