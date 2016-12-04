@@ -8,7 +8,7 @@
 
 ## Badges
 
-## Live Demo
+## Live Demo Link
 
 ## Testimonials
 
@@ -40,18 +40,18 @@
 
 ## FAQ
 
-## How It Works (mini guides)
-
-## Cheatsheets
+## How It Works (Mini Guides)
 
 ## Deployment
 
-## Changelog
+## Helpful Resources
 
 ## Contributing
 
-## Emoji key
-
 ## Contributors
+
+## Changelog
+
+## License  
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
