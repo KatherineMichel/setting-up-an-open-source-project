@@ -34,6 +34,24 @@ https://help.github.com/articles/associating-milestones-with-issues-and-pull-req
 https://github.com/blog/2178-multiple-assignees-on-issues-and-pull-requests
 -->
 
+## Organizations
+
+* [About GitHub Organizations](https://help.github.com/articles/about-organizations)
+
+Repo Access
+* Public repo- anyone can access
+* Private repo- only collaborators
+
+Access Control in GitHub
+* Owners can do anything
+* Collaborators have full read/write access (can push to the project, merge pull requests), but not administrative access (can't change settings, add new collaborators)
+* If you want to restrict someone's access to commit to master branch, instead of adding them as a collaborator, ask them to fork the repo to make changes
+* Have team members work on the same code base, but have separate repo that you send pull requests to that only your operations manager or team lead can accept
+
+GitHub Organizations and Teams
+* Organizations are for code owned by groups (for companies, OSS projects)
+* Teams allow easier management of permissions (add a developer to a team, and then give team access to a number of repos)
+
 ## Open Source Project Documentation
 
 ### README.md
@@ -62,6 +80,8 @@ Fantastic README Examples
 
 * [Git Ignore GitHub](https://github.com/github/gitignore) 
  
+ 
+ 
 ### CODE_OF_CONDUCT.md
 
 * [Adding a Code of Conduct to Your Project](https://help.github.com/articles/adding-a-code-of-conduct-to-your-project)
@@ -75,18 +95,21 @@ Types of Info to Include
 
 ### Styleguide
 
-### Templates
+
+
+
+## Issue and Pull Request Templates
 
 * [GitHub Issue and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates)
 
-#### ISSUES_TEMPLATES.md
+### ISSUES_TEMPLATES.md
 
 * [Creating an Issue Template for Your Repository](https://help.github.com/articles/creating-an-issue-template-for-your-repository)
 
 Types of Info to Include
 * Issues Guidance
 
-#### PULL_REQUESTS_TEMPLATES.md
+### PULL_REQUESTS_TEMPLATES.md
 
 * [Creating an Pull Request Template for Your Repository](https://help.github.com/articles/creating-a-pull-request-template-for-your-repository)
 
@@ -97,23 +120,6 @@ Types of Info to Include
 
 ### RELEASING.md
 
-## Organizations
-
-* [About GitHub Organizations](https://help.github.com/articles/about-organizations)
-
-Repo Access
-* Public repo- anyone can access
-* Private repo- only collaborators
-
-Access Control in GitHub
-* Owners can do anything
-* Collaborators have full read/write access (can push to the project, merge pull requests), but not administrative access (can't change settings, add new collaborators)
-* If you want to restrict someone's access to commit to master branch, instead of adding them as a collaborator, ask them to fork the repo to make changes
-* Have team members work on the same code base, but have separate repo that you send pull requests to that only your operations manager or team lead can accept
-
-GitHub Organizations and Teams
-* Organizations are for code owned by groups (for companies, OSS projects)
-* Teams allow easier management of permissions (add a developer to a team, and then give team access to a number of repos)
 
 ## Issues
 
