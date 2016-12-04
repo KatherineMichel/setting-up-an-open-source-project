@@ -27,18 +27,18 @@ Important Parts
 ### Styleguide
 ### ISSUES_TEMPLATES.md
 
-Important Parts
 * Issues Guidance
 
 ### PULL_REQUESTS_TEMPLATES.md
 
-Important Parts
 * Pull request Guidance
 
 ### CHANGELOG.md
 ### RELEASING.md
 
 ## Organizations
+
+* [About GitHub Organizations](https://help.github.com/articles/about-organizations)
 
 Repo Access
 * Public repo- anyone can access
