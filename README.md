@@ -97,33 +97,27 @@ A CONTRIBUTING.md file provides guidance to contributors about best practices fo
 
 ## Styleguide
 
-
-
-
-
-
-## Issue and Pull Request Templates
-
-* [GitHub Issue and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates)
-
-## ISSUES_TEMPLATES.md
-
-* [Creating an Issue Template for Your Repository](https://help.github.com/articles/creating-an-issue-template-for-your-repository)
-
-Types of Info to Include
-* Issues Guidance
-
-## PULL_REQUESTS_TEMPLATES.md
-
-* [Creating an Pull Request Template for Your Repository](https://help.github.com/articles/creating-a-pull-request-template-for-your-repository)
-
-Types of Info to Include
-* Pull request Guidance
+Similarly to a journalistic styleguide, a programming styleguide illustrates the project's preferred coding conventions.
 
 ## CHANGELOG.md
 
+A [CHANGELOG.md](https://en.wikipedia.org/wiki/Changelog) file lists notable changes made to the project. 
+
 ## RELEASING.md
 
+A RELEASING.md file gives instructions for how to complete a software release. 
+
+
+
+
+
+
+
+## ISSUES_TEMPLATES.md and PULL_REQUESTS_TEMPLATES.md
+
+* [GitHub Issue and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates)
+* [Creating an Issue Template for Your Repository](https://help.github.com/articles/creating-an-issue-template-for-your-repository)
+* [Creating an Pull Request Template for Your Repository](https://help.github.com/articles/creating-a-pull-request-template-for-your-repository)
 
 ## Issues
 
