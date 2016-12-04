@@ -4,6 +4,11 @@
 
 ### README.md
 
+<!--
+* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
+https://guides.github.com/features/mastering-markdown
+-->
+
 * Badges
 * Project explanation
 * Installation guidance
@@ -118,6 +123,9 @@ Close to issue with a commit: include "fixes" "closes" or "resolves" to auto clo
 
 ## Roles
 
+* [See All Contributors Emoji Key for Role Examples](https://github.com/kentcdodds/all-contributors#emoji-key)
+
+A Few Common
 * Writing code, maintaining code
 * Accepting pull requests
 * Writing documentation
@@ -136,23 +144,28 @@ Mentors
 Git and GitHub Documentation
 * [Git Homepage](https://git-scm.com)
 * [Set Up Git](https://help.github.com/articles/set-up-git)
-* [GitHub Development Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) 
 * [Try Git](https://try.github.io)
-* [GitHub Hello World Tutorial](https://guides.github.com/activities/hello-world)
 * [GitHub Help](https://help.github.com)  
 * [GitHub Training](http://training.github.com)  
 * [GitHub Bootcamp](https://help.github.com/categories/bootcamp)  
 * [GitHub Guides](https://guides.github.com) 
 
+Git Cheat Sheets and Tutorials 
+* [GitHub Development Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) 
+* [GitHub Hello World Tutorial](https://guides.github.com/activities/hello-world)
+* [Atlassian Git](https://www.atlassian.com/git) and [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)  
+* [Digital Ocean Git Tutorial Series](https://www.digitalocean.com/community/tutorial_series/introduction-to-git-installation-usage-and-branches)
+* [Bitbucket Learn Git with Bitbucket Cloud](https://confluence.atlassian.com/bitbucket/tutorial-learn-git-with-bitbucket-cloud-759857287.html) 
+
 ## Other Helpful Resources
+* [GitHub Blog](https://github.com/blog) 
+
 
 <!--
-http://jlord.us/git-it
-
-http://slides.com/kentcdodds/1st-pr#/
-* [First Timers Only](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.barzl7cwa) 
-
 * [GitHub Features (Code Review, ect.)](https://github.com/features)
+https://guides.github.com/introduction/flow
+https://help.github.com/articles/about-repository-graphs#traffic
+https://help.github.com/articles/tracking-the-progress-of-your-work-with-projects
 
 https://guides.github.com/features/issues
 https://github.com/blog/957-introducing-issue-mentions
@@ -160,6 +173,18 @@ https://github.com/blog/957-introducing-issue-mentions
 https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests
 https://help.github.com/articles/associating-milestones-with-issues-and-pull-requests
 https://github.com/blog/2178-multiple-assignees-on-issues-and-pull-requests
+
+https://github.com/blog/2097-improved-commenting-with-markdown
+
+http://jlord.us/git-it
+https://github.com/github/training-kit
+https://github.com/github/teach.github.com
+https://github.com/github-archive
+https://github.com/github-archive/training.github.com
+
+
+http://slides.com/kentcdodds/1st-pr#/
+* [First Timers Only](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.barzl7cwa) 
 
 https://gist.github.com/PurpleBooth/b24679402957c63ec426
 
@@ -207,7 +232,6 @@ https://github.com/search?utf8=✓&q=label%3A%22help+wanted%22&type=Issues&ref=s
 https://github.com/search?l=Ruby&q=label%3A%22help+wanted%22&ref=searchresults&type=Issues&utf8=✓
 
 https://medium.com/@kentcdodds/what-open-source-project-should-i-contribute-to-7d50ecfe1cb4#.sdw2t63pw
-https://github.com/kentcdodds/all-contributors
 https://github.com/jfmengels/all-contributors-cli
 
 * [Jekyll Code of Conduct GitHub](https://github.com/jekyll/jekyll/blob/master/CONDUCT.md)
@@ -222,23 +246,8 @@ Learn X in Y Minutes Git
 
 https://github.com/jlord/git-it
 
-Git Cheat Sheets and Tutorials 
-* [Atlassian Git](https://www.atlassian.com/git) and [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)  
-* [Digital Ocean Git Tutorial Series](https://www.digitalocean.com/community/tutorial_series/introduction-to-git-installation-usage-and-branches)
-* [Bitbucket Learn Git with Bitbucket Cloud](https://confluence.atlassian.com/bitbucket/tutorial-learn-git-with-bitbucket-cloud-759857287.html) 
 * [Git Index](http://gitref.org)  
 * [Stanford Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic) 
-
-* [GitHub Blog](https://github.com/blog) 
- 
-https://github.com/github/training-kit
-https://github.com/github/teach.github.com
-https://github.com/github-archive
-https://github.com/github-archive/training.github.com
-
-https://guides.github.com/introduction/flow
-https://help.github.com/articles/about-repository-graphs#traffic
-https://help.github.com/articles/tracking-the-progress-of-your-work-with-projects
 
 Recommended
 https://www.git-tower.com
@@ -249,13 +258,7 @@ https://github.com/git-ftp
 https://github.com/github/git-lfs
 https://git-lfs.github.com
 
-https://guides.github.com/features/mastering-markdown
-https://github.com/blog/2097-improved-commenting-with-markdown
-
 Markdown
 * [Learn X in Y Minutes Markdown](https://learnxinyminutes.com/docs/markdown) 
-
-* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
-
 * [Enterprise Markdown Cheat Sheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
 --> 
