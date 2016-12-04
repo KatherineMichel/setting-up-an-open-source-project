@@ -1,13 +1,22 @@
 # Setting Up An Open Source Project
 
+![](come-in-open-source.jpg)
+[Photo Credit: Pete McCarthy](https://www.flickr.com/photos/petemccarthy/6866996865/in/photolist-bsP9VF-5HxTaS-aDjRJP-aDjQrH-deG7gC-aDoF1o-aDjPXc-aDoGmu-6rVG54-4SamTJ-aDoGf7-6rkTRy-oau5mJ-rufey1-q7f8tc-6D4R4n-ob5fBr-9ZakZE-fUg5eD-ruf1Y1-hvbS4v-afKdid-nPLGo6-p6vQv5-e28yoh-djiwmi-pPy6cL-74jKzz-nVcJqF-nQiamA-6fSXcE-aDoGyU-fAjoZM-4S4Lcz-5ZXKj8-aDjQSr-7z68V1-pPDNbq-edZStq-8f1nQ1-eVGah1-piE7UU-qzeuLm-6fSGWA-3TRAoj-8Yko35-6fSSyE-6fNEBM-fcweAo-qzfe8W)
+
+<!--
+[Photo Credit: Pete McCarthy, Attribution-NoDerivs]
+https://creativecommons.org/licenses/by-nd/3.0/
+-->
+
+## Example Open Source Project Flow
+
 ## Open Source Project Documentation
 
 ### README.md
 
-<!--
+GitHub Markdown Documentation
 * [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
-https://guides.github.com/features/mastering-markdown
--->
+* [GitHub Mastering Markdown Tutorial](https://guides.github.com/features/mastering-markdown)
 
 * Badges
 * Project explanation
@@ -41,31 +50,31 @@ Fantastic README Examples
 
 * [Setting Guidelines for Repository Contributors](https://help.github.com/articles/setting-guidelines-for-repository-contributors)
 
-Types of Info Included
+Types of Info to Include
 * Installation guidance
 
 ### Styleguide
 
 ### Templates
 
-<!--
-https://github.com/blog/2111-issue-and-pull-request-templates
--->
+* [GitHub Issue and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates)
 
 #### ISSUES_TEMPLATES.md
 
-<!--
-https://help.github.com/articles/creating-an-issue-template-for-your-repository
-https://help.github.com/articles/creating-a-pull-request-template-for-your-repository
--->
+* [Creating an Issue Template for Your Repository](https://help.github.com/articles/creating-an-issue-template-for-your-repository)
 
+Types of Info to Include
 * Issues Guidance
 
 #### PULL_REQUESTS_TEMPLATES.md
 
+* [Creating an Pull Request Template for Your Repository](https://help.github.com/articles/creating-a-pull-request-template-for-your-repository)
+
+Types of Info to Include
 * Pull request Guidance
 
 ### CHANGELOG.md
+
 ### RELEASING.md
 
 ## Organizations
