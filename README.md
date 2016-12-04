@@ -52,45 +52,49 @@ GitHub Organizations and Teams
 * Organizations are for code owned by groups (for companies, OSS projects)
 * Teams allow easier management of permissions (add a developer to a team, and then give team access to a number of repos)
 
+
+
 ## README.md
+
+A [README](https://en.wikipedia.org/wiki/README) is a file that contains project information and instructions. 
 
 * [Example README Structure](https://github.com/KatherineMichel/setting-up-an-open-source-project/blob/master/example-README-structure.md)
 
-Fantastic README Examples
-* [Hackathon Starter](https://github.com/sahat/hackathon-starter)
-* [Megaboilerplate](https://github.com/sahat/megaboilerplate)
-
 ## Wiki
 
-Set up wiki when README too big
-* settings/options, other option -> Restrict editing to collaborators only
-* GitHub wikis use GitHub flavored markdown
-* Link across pages using page name as anchor
-* Badges
+A README usually suffices for providing project information. If not, every GitHub repo comes with a wiki. The project wiki is enabled by default under Settings -> Features. Editing can be restricted to collaborators only. GitHub wikis use GitHub flavored markdown and hyperlinks can be created across pages. 
+
+* [GitHub Projects with Great Wikis](https://github.com/showcases/projects-with-great-wikis)
 
 ## LICENSE.md
+
+A [Software License](https://en.wikipedia.org/wiki/Software_license) specifies the terms under which open source code can be used and redistributed. 
 
 * [GitHub Choose a License](http://choosealicense.com)
 * [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing) 
 
 ## .gitignore
 
+When running code locally, some files may be generated that are only for your own local use. A .gitignore is used to instruct Git to not include these files when pushing code to GitHub, where they would be unncessary. 
+
+.gitignore Templates 
 * [Git Ignore GitHub](https://github.com/github/gitignore) 
  
- 
- 
 ## CODE_OF_CONDUCT.md
+
+A [Code of Conduct](https://en.wikipedia.org/wiki/Code_of_conduct) sets forth the standard of conduct expected of those who engage with the project. 
 
 * [Adding a Code of Conduct to Your Project](https://help.github.com/articles/adding-a-code-of-conduct-to-your-project)
 
 ## CONTRIBUTING.md
 
+A CONTRIBUTING.md provides guidance to contributors about best practices for contributing to the project. 
+
 * [Setting Guidelines for Repository Contributors](https://help.github.com/articles/setting-guidelines-for-repository-contributors)
 
-Types of Info to Include
-* Installation guidance
-
 ## Styleguide
+
+
 
 
 
@@ -212,7 +216,16 @@ GitHub Markdown Documentation
 * [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
 * [GitHub Mastering Markdown Tutorial](https://guides.github.com/features/mastering-markdown)
 
+Fantastic README Examples
+* [Awesome README](https://github.com/matiassingers/awesome-readme)
+* [Hackathon Starter](https://github.com/sahat/hackathon-starter)
+* [Megaboilerplate](https://github.com/sahat/megaboilerplate)
+
 <!--
+Funding
+
+Issue triage
+
 https://github.com/blog/2097-improved-commenting-with-markdown
 
 http://jlord.us/git-it
