@@ -72,34 +72,17 @@ A RELEASING.md file gives instructions for how to complete a software release.
 
 * [Understanding the GitHub Flow](https://guides.github.com/introduction/flow)
 * [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
-* [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver)
+* [Semver](http://semver.org)
 
 ## Special Features
 
 Features
 * [GitHub Features](https://github.com/features)
 
-Projects
+Projects, Milestones, Issues, Pull Requests, Milestones, Code Review
 * [Projects](https://help.github.com/articles/tracking-the-progress-of-your-work-with-projects)
 
-# Ownership
-
-
-
-
-
-
-
-
-
 <!--
-[Photo Credit: Pete McCarthy, Attribution-NoDerivs]
-https://creativecommons.org/licenses/by-nd/3.0/
--->
-
-<!--
-Code Review
-
 https://help.github.com/articles/about-repository-graphs#traffic
 
 https://guides.github.com/features/issues
@@ -110,6 +93,20 @@ https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-
 https://help.github.com/articles/associating-milestones-with-issues-and-pull-requests
 https://github.com/blog/2178-multiple-assignees-on-issues-and-pull-requests
 -->
+
+# Ownership and Authorization
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Organizations
 
