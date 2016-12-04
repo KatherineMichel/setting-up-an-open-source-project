@@ -54,31 +54,34 @@ GitHub Organizations and Teams
 
 
 
+## Markdown
+
+GitHub project documentation is often created using Markdown files (files that end in .md). Markdown tends to be simpler and easier to use than regular HTML. See [GitHub flavored Markdown](https://help.github.com/articles/github-flavored-markdown) for instructions. 
+
 ## README.md
 
-A [README](https://en.wikipedia.org/wiki/README) is a file that contains project information and instructions. 
+A [README](https://en.wikipedia.org/wiki/README) is a file that contains project information and instructions.  
 
 * [Example README Structure](https://github.com/KatherineMichel/setting-up-an-open-source-project/blob/master/example-README-structure.md)
 
 ## Wiki
 
-A README usually suffices for providing project information. If not, every GitHub repo comes with a wiki. The project wiki is enabled by default under Settings -> Features. Editing can be restricted to collaborators only. GitHub wikis use GitHub flavored markdown and hyperlinks can be created across pages. 
+A README usually suffices for providing project information. If not, every GitHub repo comes with a wiki. The project wiki is enabled by default under Settings -> Features. Editing can be restricted to collaborators only. GitHub wikis can be created using [GitHub flavored Markdown](https://help.github.com/articles/github-flavored-markdown) and hyperlinks can be created across pages. 
 
 * [GitHub Projects with Great Wikis](https://github.com/showcases/projects-with-great-wikis)
 
 ## LICENSE.md
 
-A [Software License](https://en.wikipedia.org/wiki/Software_license) specifies the terms under which open source code can be used and redistributed. 
+A [Software License](https://en.wikipedia.org/wiki/Software_license) specifies the terms under which open source code can be used and redistributed. GitHub offers guidance for choosing a license. A repo that does not contain a license is considered copyrighted and therefore cannot be used publicly without permissions. 
 
 * [GitHub Choose a License](http://choosealicense.com)
 * [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing) 
 
 ## .gitignore
 
-When running code locally, some files may be generated that are only for your own local use. A .gitignore is used to instruct Git to not include these files when pushing code to GitHub, where they would be unncessary. 
+When running code locally, some files may be generated that are only for your own local use. A .gitignore is used to instruct Git to not include these files when pushing code to GitHub, where they would be unncessary. GitHub provides .gitignore templates that vary by language or framework. 
 
-.gitignore Templates 
-* [Git Ignore GitHub](https://github.com/github/gitignore) 
+* [GitHub .gitignore Templates](https://github.com/github/gitignore) 
  
 ## CODE_OF_CONDUCT.md
 
@@ -88,7 +91,7 @@ A [Code of Conduct](https://en.wikipedia.org/wiki/Code_of_conduct) sets forth th
 
 ## CONTRIBUTING.md
 
-A CONTRIBUTING.md provides guidance to contributors about best practices for contributing to the project. 
+A CONTRIBUTING.md file provides guidance to contributors about best practices for contributing to the project. 
 
 * [Setting Guidelines for Repository Contributors](https://help.github.com/articles/setting-guidelines-for-repository-contributors)
 
