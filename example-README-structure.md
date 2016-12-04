@@ -14,9 +14,13 @@
 
 ## Features
 
+* Project explanation
+
 ## Prerequisites
 
 ## Getting Started
+
+* Installation guidance
 
 ## Project Structure
 
