@@ -4,19 +4,37 @@
 
 ### README.md
 
+Important Parts
+* Badges
+* Project explanation
+* Installation guidance
+* Credit to contributors
+
 Set up wiki when README too big
 * settings/options, other option -> Restrict editing to collaborators only
 * GitHub wikis use GitHub flavored markdown
 * Link across pages using page name as anchor
-* Consider adding badges
+* Badges
 
 ### LICENSE.md
 ### .gitignore
 ### CODE_OF_CONDUCT.md
 ### CONTRIBUTING.md
+
+Important Parts
+* Installation guidance
+
 ### Styleguide
 ### ISSUES_TEMPLATES.md
+
+Important Parts
+* Issues Guidance
+
 ### PULL_REQUESTS_TEMPLATES.md
+
+Important Parts
+* Pull request Guidance
+
 ### CHANGELOG.md
 ### RELEASING.md
 
@@ -39,6 +57,8 @@ GitHub Organizations and Teams
 ## Issues
 
 <!--
+* Labels- Beginner friendly
+
 Listing issues- issues tab, open/closed, filtering issues
 Labels- example: features and bugs, including multiple labels
 Assign, milestone, issue notifications, subscribe/unsubscribe to an issue
@@ -69,7 +89,19 @@ Close to issue with a commit: include "fixes" "closes" or "resolves" to auto clo
 
     $ git commit -m "Fixes #1"
 
+## Roles
+
+* Writing code, maintaining code
+* Accepting pull requests
+* Writing documentation
+* Answering questions
+
 ## New Contributors
+
+Ideally, make project welcoming to newcomers, with user-friendly documentation
+
+Mentors
+* Include mentor list if applicable
 
 GitHub Documentation
 * [Git Homepage](https://git-scm.com)
