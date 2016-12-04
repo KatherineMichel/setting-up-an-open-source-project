@@ -21,7 +21,6 @@ Set up wiki when README too big
 ### CODE_OF_CONDUCT.md
 ### CONTRIBUTING.md
 
-Important Parts
 * Installation guidance
 
 ### Styleguide
