@@ -10,17 +10,25 @@ https://creativecommons.org/licenses/by-nd/3.0/
 
 ## Example Open Source Project Features and Flow
 
-* [GitHub Features (Code Review, ect.)](https://github.com/features)
+Features
+* [GitHub Features](https://github.com/features)
+
+Flow
 * [Understanding the GitHub Flow](https://guides.github.com/introduction/flow)
+* [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
+
+Projects
+* [Projects](https://help.github.com/articles/tracking-the-progress-of-your-work-with-projects)
 
 <!--
+Code Review
+
 https://help.github.com/articles/about-repository-graphs#traffic
 
 https://guides.github.com/features/issues
 https://github.com/blog/957-introducing-issue-mentions
 
-Projects, Milestones
-https://help.github.com/articles/tracking-the-progress-of-your-work-with-projects
+Milestones
 https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests
 https://help.github.com/articles/associating-milestones-with-issues-and-pull-requests
 https://github.com/blog/2178-multiple-assignees-on-issues-and-pull-requests
@@ -144,15 +152,28 @@ New issue, drop down list of developers, select/create new milestone
 Rails repo issues- filter issues by milestone, labels
 -->
 
-## Roles
+## Contributor Emoji key
 
-* [See All Contributors Emoji Key for Role Examples](https://github.com/kentcdodds/all-contributors#emoji-key)
+* [From All Contributors Emoji Key](https://github.com/kentcdodds/all-contributors#emoji-key)
 
-A Few Common
-* Writing code, maintaining code
-* Accepting pull requests
-* Writing documentation
-* Answering questions
+Emoji | Represents |
+:---: | --- |
+💻 | Code |
+🔌 | Plugin/utility libraries |
+🔧 | Tools |
+🚇 | Infrastructure (Hosting, Build-Tools, etc) |
+📖 | Documentation |
+🌍 | Translation | the translated content
+💁 | Answering Questions (in Issues, Stack Overflow, Gitter, Slack, etc.) | |
+⚠️ | Tests |
+🐛 | Bug reports |
+💡 | Examples |
+📝 | Blogposts |
+✅ | Tutorials |
+📹 | Videos |
+📢 | Talks |
+🎨 | Design |
+👀 | Reviewed Pull Requests |
 
 ## New Contributors
 
