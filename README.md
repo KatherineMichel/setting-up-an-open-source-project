@@ -4,7 +4,6 @@
 
 ### README.md
 
-Important Parts
 * Badges
 * Project explanation
 * Installation guidance
