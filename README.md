@@ -199,6 +199,8 @@ https://github.com/devspace/awesome-github-templates
 https://github.com/jessicard/remote-jobs/blob/master/PULL_REQUEST_TEMPLATE.MD
 https://github.com/tylucaskelley/github-templates/blob/master/CONTRIBUTING.md
 
+https://github.com/angular-translate/angular-translate/blob/master/CONTRIBUTING.md
+
 https://github.com/jdorfman/awesome-help-wanted
 
 https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md
