@@ -3,56 +3,7 @@
 ![](come-in-open-source.jpg)
 [Photo Credit: Pete McCarthy](https://www.flickr.com/photos/petemccarthy/6866996865/in/photolist-bsP9VF-5HxTaS-aDjRJP-aDjQrH-deG7gC-aDoF1o-aDjPXc-aDoGmu-6rVG54-4SamTJ-aDoGf7-6rkTRy-oau5mJ-rufey1-q7f8tc-6D4R4n-ob5fBr-9ZakZE-fUg5eD-ruf1Y1-hvbS4v-afKdid-nPLGo6-p6vQv5-e28yoh-djiwmi-pPy6cL-74jKzz-nVcJqF-nQiamA-6fSXcE-aDoGyU-fAjoZM-4S4Lcz-5ZXKj8-aDjQSr-7z68V1-pPDNbq-edZStq-8f1nQ1-eVGah1-piE7UU-qzeuLm-6fSGWA-3TRAoj-8Yko35-6fSSyE-6fNEBM-fcweAo-qzfe8W)
 
-<!--
-[Photo Credit: Pete McCarthy, Attribution-NoDerivs]
-https://creativecommons.org/licenses/by-nd/3.0/
--->
-
-## Example Open Source Project Features and Flow
-
-Features
-* [GitHub Features](https://github.com/features)
-
-Flow
-* [Understanding the GitHub Flow](https://guides.github.com/introduction/flow)
-* [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
-
-Projects
-* [Projects](https://help.github.com/articles/tracking-the-progress-of-your-work-with-projects)
-
-<!--
-Code Review
-
-https://help.github.com/articles/about-repository-graphs#traffic
-
-https://guides.github.com/features/issues
-https://github.com/blog/957-introducing-issue-mentions
-
-Milestones
-https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests
-https://help.github.com/articles/associating-milestones-with-issues-and-pull-requests
-https://github.com/blog/2178-multiple-assignees-on-issues-and-pull-requests
--->
-
-## Organizations
-
-* [About GitHub Organizations](https://help.github.com/articles/about-organizations)
-
-Repo Access
-* Public repo- anyone can access
-* Private repo- only collaborators
-
-Access Control in GitHub
-* Owners can do anything
-* Collaborators have full read/write access (can push to the project, merge pull requests), but not administrative access (can't change settings, add new collaborators)
-* If you want to restrict someone's access to commit to master branch, instead of adding them as a collaborator, ask them to fork the repo to make changes
-* Have team members work on the same code base, but have separate repo that you send pull requests to that only your operations manager or team lead can accept
-
-GitHub Organizations and Teams
-* Organizations are for code owned by groups (for companies, OSS projects)
-* Teams allow easier management of permissions (add a developer to a team, and then give team access to a number of repos)
-
-
+# Open Source Documentation
 
 ## Markdown
 
@@ -107,11 +58,67 @@ A [CHANGELOG.md](https://en.wikipedia.org/wiki/Changelog) file lists notable cha
 
 A RELEASING.md file gives instructions for how to complete a software release. 
 
+# Advanced Work Patterns
+
+## Release Models
+
+* [Understanding the GitHub Flow](https://guides.github.com/introduction/flow)
+* [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
+
+## Special Features
+
+Features
+* [GitHub Features](https://github.com/features)
+
+Projects
+* [Projects](https://help.github.com/articles/tracking-the-progress-of-your-work-with-projects)
+
+# Ownership
 
 
 
 
 
+
+
+
+
+<!--
+[Photo Credit: Pete McCarthy, Attribution-NoDerivs]
+https://creativecommons.org/licenses/by-nd/3.0/
+-->
+
+<!--
+Code Review
+
+https://help.github.com/articles/about-repository-graphs#traffic
+
+https://guides.github.com/features/issues
+https://github.com/blog/957-introducing-issue-mentions
+
+Milestones
+https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests
+https://help.github.com/articles/associating-milestones-with-issues-and-pull-requests
+https://github.com/blog/2178-multiple-assignees-on-issues-and-pull-requests
+-->
+
+## Organizations
+
+* [About GitHub Organizations](https://help.github.com/articles/about-organizations)
+
+Repo Access
+* Public repo- anyone can access
+* Private repo- only collaborators
+
+Access Control in GitHub
+* Owners can do anything
+* Collaborators have full read/write access (can push to the project, merge pull requests), but not administrative access (can't change settings, add new collaborators)
+* If you want to restrict someone's access to commit to master branch, instead of adding them as a collaborator, ask them to fork the repo to make changes
+* Have team members work on the same code base, but have separate repo that you send pull requests to that only your operations manager or team lead can accept
+
+GitHub Organizations and Teams
+* Organizations are for code owned by groups (for companies, OSS projects)
+* Teams allow easier management of permissions (add a developer to a team, and then give team access to a number of repos)
 
 ## ISSUES_TEMPLATES.md and PULL_REQUESTS_TEMPLATES.md
 
