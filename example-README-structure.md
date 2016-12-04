@@ -1,80 +1,57 @@
 # Project Name
 
+## Table of Contents
+
+- [](#)
+
 ## Logo/Photo/Screenshot/gif
 
 ## Badges
 
 ## Live Demo
 
-### Testimonials
+## Testimonials
 
-## Emoji key
+## Features
 
-## Contributors
+## Prerequisites
 
+## Getting Started
 
-
-
-
-
-
-Table of Contents
------------------
-
-- [](#)
-
-
-Features
---------
-
-Prerequisites
--------------
-
-Getting Started
----------------
-
-Project Structure
------------------
+## Project Structure
 
 | Name                               | Description                                                  |
 | ---------------------------------- | ------------------------------------------------------------ |
 |                                    |                                                              |
 
-List of Packages
-----------------
+## List of Packages
 
 | Package                         | Description                                                           |
 | ------------------------------- | --------------------------------------------------------------------- |
 |                                 |                                                                       |
 
-Useful Tools and Resources
---------------------------
+## Useful Tools and Resources
 
-Recommended Design Resources
-----------------------------
+## Recommended Design Resources
 
-Recommended Libraries
----------------------------------
+## Recommended Libraries
 
-Pro Tips
---------
+## Pro Tips
 
-FAQ
----
+## FAQ
 
-How It Works (mini guides)
---------------------------
+## How It Works (mini guides)
 
-Cheatsheets
------------
+## Cheatsheets
 
-Deployment
-----------
+## Deployment
 
-Changelog
----------
+## Changelog
 
-Contributing
-------------
+## Contributing
+
+## Emoji key
+
+## Contributors
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
