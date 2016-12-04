@@ -101,11 +101,137 @@ Ideally, make project welcoming to newcomers, with user-friendly documentation
 Mentors
 * Include mentor list if applicable
 
-GitHub Documentation
+Git and GitHub Documentation
 * [Git Homepage](https://git-scm.com)
 * [Set Up Git](https://help.github.com/articles/set-up-git)
+* [GitHub Development Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) 
+* [Try Git](https://try.github.io)
 * [GitHub Hello World Tutorial](https://guides.github.com/activities/hello-world)
 * [GitHub Help](https://help.github.com)  
 * [GitHub Training](http://training.github.com)  
 * [GitHub Bootcamp](https://help.github.com/categories/bootcamp)  
 * [GitHub Guides](https://guides.github.com) 
+
+## Other Helpful Resources
+
+<!--
+http://jlord.us/git-it
+
+http://slides.com/kentcdodds/1st-pr#/
+* [First Timers Only](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.barzl7cwa) 
+
+* [GitHub Features (Code Review, ect.)](https://github.com/features)
+
+https://guides.github.com/features/issues
+https://github.com/blog/957-introducing-issue-mentions
+
+https://github.com/blog/2111-issue-and-pull-request-templates
+https://help.github.com/articles/helping-people-contribute-to-your-project/
+https://help.github.com/articles/creating-an-issue-template-for-your-repository
+https://help.github.com/articles/creating-a-pull-request-template-for-your-repository
+https://help.github.com/articles/setting-guidelines-for-repository-contributors
+
+https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests
+https://help.github.com/articles/associating-milestones-with-issues-and-pull-requests
+https://github.com/blog/2178-multiple-assignees-on-issues-and-pull-requests
+
+https://gist.github.com/PurpleBooth/b24679402957c63ec426
+
+http://hackforchange.org/tips-for-better-open-source-documentation
+https://github.com/zalando/zalando-howto-open-source
+https://github.com/ddbeck/readme-checklist
+
+CODE_OF_CONDUCT
+https://github.com/stevemao/github-issue-templates
+
+https://github.com/devspace/awesome-github-templates
+https://github.com/jessicard/remote-jobs/blob/master/PULL_REQUEST_TEMPLATE.MD
+https://github.com/tylucaskelley/github-templates/blob/master/CONTRIBUTING.md
+
+https://github.com/jdorfman/awesome-help-wanted
+
+https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md
+
+
+Open Source Management, Codes of Conduct, Roadmaps
+* [Open Source Management at Docker](https://github.com/docker/opensource)
+* [Sentry Open Source Hosting](https://getsentry.com/for/open-source)
+
+Example First-Timers Info
+* [Pinax First-Timer Opportunity via Twitter](https://twitter.com/pinaxproject/status/687318459072446466) and [First-Timer](https://twitter.com/pinaxproject/status/694213861327659008)
+* [How to Contribute to Pinax Blog Post](http://pinaxproject.com/pinax/ways_to_contribute) and [How to Contribute to Pinax Blog Post](http://blog.pinaxproject.com/2015/11/10/guide-how-contribute-pinax)
+* [Pinax First Timers Only](http://blog.pinaxproject.com/2016/01/11/first-timers-only-and-new-labels), and [Pinax Issues GitHub](https://github.com/pinax/pinax/issues)
+* [Pinax 16.04](http://blog.pinaxproject.com/2016/02/01/pinax-1604) and [Proposal for Pinax Distribution Versioning GitHub](https://github.com/pinax/pinax/issues/84)
+* [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
+
+http://pinaxproject.com/pinax/how_to_contribute
+https://docs.google.com/document/d/1f9hPTw3nelWy7nxaDawWP7EUl4QyeGeC4BNYeb4iWhU/edit
+http://blog.pinaxproject.com/2016/04/25/pinax-developer-profiles-shosh-seiden/
+http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation/
+https://www.youtube.com/channel/UCAPpNG85GLzUBwzYCjd4raQ
+https://plus.google.com/events/ca9n7iklbra4i67te8uh55468n0
+
+https://github.com/pybee/voc/wiki/Your-first-VOC-contribution
+
+Start contributing to open source
+* Do a GitHub search such as ["pull requests welcome"](https://github.com/search?utf8=%E2%9C%93&q=pull+requests+welcome)
+https://github.com/search?utf8=%E2%9C%93&q=help+wanted
+https://github.com/search?p=4&q=label%3A%22beginner%22&ref=searchresults&state=open&type=Issues&utf8=✓
+https://github.com/search?utf8=✓&q=label%3A%22help+wanted%22&type=Issues&ref=searchresults
+https://github.com/search?l=Ruby&q=label%3A%22help+wanted%22&ref=searchresults&type=Issues&utf8=✓
+
+https://medium.com/@kentcdodds/what-open-source-project-should-i-contribute-to-7d50ecfe1cb4#.sdw2t63pw
+https://github.com/kentcdodds/all-contributors
+https://github.com/jfmengels/all-contributors-cli
+
+* [Jekyll Code of Conduct GitHub](https://github.com/jekyll/jekyll/blob/master/CONDUCT.md)
+* [Rails Code of Conduct GitHub](https://github.com/rails/rails/blob/master/CODE_OF_CONDUCT.md)
+https://github.com/HackathonHackers/code-of-conduct
+
+
+#### Git and Markdown
+
+https://help.github.com/articles/adding-a-code-of-conduct-to-your-project
+
+Learn X in Y Minutes Git
+* [Learn X in Y Minutes Git](https://learnxinyminutes.com/docs/git)
+
+https://github.com/jlord/git-it
+
+Git Cheat Sheets and Tutorials 
+* [Atlassian Git](https://www.atlassian.com/git) and [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)  
+* [Digital Ocean Git Tutorial Series](https://www.digitalocean.com/community/tutorial_series/introduction-to-git-installation-usage-and-branches)
+* [Bitbucket Learn Git with Bitbucket Cloud](https://confluence.atlassian.com/bitbucket/tutorial-learn-git-with-bitbucket-cloud-759857287.html) 
+* [Git Index](http://gitref.org)  
+* [Stanford Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic) 
+
+* [GitHub Blog](https://github.com/blog) 
+ 
+https://github.com/github/training-kit
+https://github.com/github/teach.github.com
+https://github.com/github-archive
+https://github.com/github-archive/training.github.com
+
+https://guides.github.com/introduction/flow
+https://help.github.com/articles/about-repository-graphs#traffic
+https://help.github.com/articles/tracking-the-progress-of-your-work-with-projects
+
+Recommended
+https://www.git-tower.com
+
+https://git-scm.com/book/en/Git-Basics-Tips-and-Tricks
+
+https://github.com/git-ftp
+https://github.com/github/git-lfs
+https://git-lfs.github.com
+
+https://guides.github.com/features/mastering-markdown
+https://github.com/blog/2097-improved-commenting-with-markdown
+
+Markdown
+* [Learn X in Y Minutes Markdown](https://learnxinyminutes.com/docs/markdown) 
+
+* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
+
+* [Enterprise Markdown Cheat Sheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
+--> 
