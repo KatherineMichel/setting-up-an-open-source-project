@@ -9,6 +9,8 @@
 
 GitHub project documentation is often created using Markdown files (files that end in .md). Markdown tends to be simpler and easier to use than regular HTML. See [GitHub flavored Markdown](https://help.github.com/articles/github-flavored-markdown) for instructions. 
 
+## Dotfiles
+
 ## README.md
 
 A [README](https://en.wikipedia.org/wiki/README) is a file that contains project information and instructions.  
@@ -34,6 +36,12 @@ When running code locally, some files may be generated that are only for your ow
 
 * [GitHub .gitignore Templates](https://github.com/github/gitignore) 
  
+## .gitconfig 
+ 
+## .editconfig 
+ 
+ * [EditorConfig](http://editorconfig.org)
+ 
 ## CODE_OF_CONDUCT.md
 
 A [Code of Conduct](https://en.wikipedia.org/wiki/Code_of_conduct) sets forth the standard of conduct expected of project contributors. 
@@ -52,7 +60,7 @@ Similarly to a journalistic styleguide, a programming styleguide illustrates the
 
 ## ISSUE_TEMPLATE.md and PULL_REQUEST_TEMPLATE.md
 
-When an issues or pull request template is added to a repository, the template contents will automatically populate in the issue or pull request form body. 
+When an issues or pull request template is added to a repository, the template contents will automatically populate in the issue or pull request form body. These templates can be stored in the root or a hidden directory named .github.
 
 * [GitHub Issue and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates)
 * [Creating an Issue Template for Your Repository](https://help.github.com/articles/creating-an-issue-template-for-your-repository)
@@ -76,7 +84,7 @@ A RELEASING.md file gives instructions for how to complete a software release.
 
 ## Special Features
 
-GitHub provides a number of special features that help with workflow
+GitHub provides a number of special features that help with workflow. 
 
 * [GitHub Features](https://github.com/features)
 
@@ -107,13 +115,13 @@ https://github.com/blog/2178-multiple-assignees-on-issues-and-pull-requests
 
 ## Organizations
 
-Organization accounts are for code owned by groups (companies, OSS projects)
+Organization accounts are for code owned by groups (companies, OSS projects). 
 
 * [About GitHub Organizations](https://help.github.com/articles/about-organizations)
 
 ## Teams
 
-Teams make permission management easier. A developer added to a team now has access to repos based on team access
+Teams make permission management easier. A developer added to a team now has access to repos based on team access. 
 
 ## Projects
 
@@ -198,7 +206,7 @@ Close to issue with a commit: include "fixes" "closes" or "resolves" to auto clo
 
 ## New Contributors
 
-Ideally, make project welcoming to newcomers, with user-friendly documentation
+Ideally, make project welcoming to newcomers, with user-friendly documentation. 
 
 Helpful Info
 * [Helping People Contribute to Your Project](https://help.github.com/articles/helping-people-contribute-to-your-project)
