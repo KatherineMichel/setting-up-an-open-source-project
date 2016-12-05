@@ -48,6 +48,8 @@ Dotfiles begin with a dot and often contain configuration info specific to the d
 
 * [Hidden File and Hidden Directory](https://en.wikipedia.org/wiki/Hidden_file_and_hidden_directory)
 
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
 <hr>
 
 # Initial Documentation
@@ -70,6 +72,8 @@ A [Software License](https://en.wikipedia.org/wiki/Software_license) specifies t
 
 * [GitHub Choose a License](http://choosealicense.com)
 * [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing) 
+
+:top: <sub>[**back to top**](#table-of-contents)</sub>
 
 <hr>
 
@@ -97,6 +101,8 @@ A .editconfig is a dotfile in which a developer or project maintainers can speci
  
  * [EditorConfig](http://editorconfig.org)
  
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
 <hr> 
  
 # Contributing Documentation 
@@ -125,6 +131,8 @@ When an issues or pull request template is added to a repository, the template c
 * [Creating an Issue Template for Your Repository](https://help.github.com/articles/creating-an-issue-template-for-your-repository)
 * [Creating an Pull Request Template for Your Repository](https://help.github.com/articles/creating-a-pull-request-template-for-your-repository)
 
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
 <hr>
 
 # Release Documentation
@@ -137,7 +145,10 @@ A [CHANGELOG.md](https://en.wikipedia.org/wiki/Changelog) file lists notable cha
 
 A RELEASING.md file gives instructions for how to complete a software release. 
 
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
 <hr>
+
 
 # Advanced Work Patterns
 
