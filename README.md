@@ -40,9 +40,11 @@ A [Software License](https://en.wikipedia.org/wiki/Software_license) specifies t
 
 ## .gitignore
 
-When running code locally, some files may be generated that are only for your own local use. A .gitignore is a dotfile used to instruct Git to not include these files when pushing code to GitHub, where they would be unncessary. GitHub provides .gitignore templates that vary by language or framework. 
+When running code locally, some files may be generated that are only for your own local use. A .gitignore is a dotfile used to instruct Git to not include these files when pushing code to GitHub, where they would be unncessary. GitHub provides .gitignore templates that vary by language or framework. Alternatively, files to be ignored can be stores in hidden folders named .git/info/exclude. 
 
 * [GitHub .gitignore Templates](https://github.com/github/gitignore) 
+ 
+## .gitattributes 
  
 ## .gitconfig 
  
@@ -143,7 +145,7 @@ Teams make permission management easier. A developer added to a team now has acc
 
 * [Projects](https://help.github.com/articles/tracking-the-progress-of-your-work-with-projects)
 
-## Tasks
+# Tasks
 
 Backend
 * Code
