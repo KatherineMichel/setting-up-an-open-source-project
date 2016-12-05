@@ -76,11 +76,16 @@ A RELEASING.md file gives instructions for how to complete a software release.
 
 ## Special Features
 
-Features
+GitHub provides a number of special features that help with workflow
+
 * [GitHub Features](https://github.com/features)
 
-Projects, Milestones, Issues, Pull Requests, Milestones, Code Review
-* [Projects](https://help.github.com/articles/tracking-the-progress-of-your-work-with-projects)
+Examples
+* Projects
+* Milestones
+* Issues
+* Pull Requests
+* Code Review
 
 <!--
 Code Review (See also Project Management)
@@ -102,9 +107,17 @@ https://github.com/blog/2178-multiple-assignees-on-issues-and-pull-requests
 
 ## Organizations
 
+Organization accounts are for code owned by groups (companies, OSS projects)
+
 * [About GitHub Organizations](https://help.github.com/articles/about-organizations)
 
 ## Teams
+
+Teams make permission management easier. A developer added to a team now has access repos based on team access
+
+## Projects
+
+* [Projects](https://help.github.com/articles/tracking-the-progress-of-your-work-with-projects)
 
 ## Tasks
 
@@ -132,9 +145,20 @@ Media
 * Videos
 * Talks
 
+## Issues
+
+Enable Issues to:
+* Manage features
+* Track bugs
+
+Labels
+* Label examples: Help Wanted, Beginner Friendly
+* Label examples: Features, Bugs, Enhancements
+
+## Funding
 
 
-
+<!--
 Repo Access
 * Public repo- anyone can access
 * Private repo- only collaborators
@@ -145,15 +169,7 @@ Access Control in GitHub
 * If you want to restrict someone's access to commit to master branch, instead of adding them as a collaborator, ask them to fork the repo to make changes
 * Have team members work on the same code base, but have separate repo that you send pull requests to that only your operations manager or team lead can accept
 
-GitHub Organizations and Teams
-* Organizations are for code owned by groups (for companies, OSS projects)
-* Teams allow easier management of permissions (add a developer to a team, and then give team access to a number of repos)
-
 ## Issues
-
-Enable Issues to:
-* Track bugs
-* Manage features
 
 Types of GitHub Comments
 * On the pull request
@@ -171,10 +187,7 @@ Close to issue with a commit: include "fixes" "closes" or "resolves" to auto clo
 
     $ git commit -m "Fixes #1"
 
-Labels
-* Label examples: Help Wanted, Beginner Friendly
-* Label examples: Features, Bugs, Enhancements
-
+-->
 <!--
 Listing issues- issues tab, open/closed, filtering issues
 Labels- including multiple labels
@@ -228,8 +241,6 @@ Fantastic README Examples
 * [Megaboilerplate](https://github.com/sahat/megaboilerplate)
 
 <!--
-Funding
-
 Issue triage
 
 https://github.com/blog/2097-improved-commenting-with-markdown
@@ -296,8 +307,6 @@ https://github.com/search?l=Ruby&q=label%3A%22help+wanted%22&ref=searchresults&t
 * [Jekyll Code of Conduct GitHub](https://github.com/jekyll/jekyll/blob/master/CONDUCT.md)
 * [Rails Code of Conduct GitHub](https://github.com/rails/rails/blob/master/CODE_OF_CONDUCT.md)
 https://github.com/HackathonHackers/code-of-conduct
-
-#### Git and Markdown
 
 Learn X in Y Minutes
 * [Learn X in Y Minutes Git](https://learnxinyminutes.com/docs/git)
