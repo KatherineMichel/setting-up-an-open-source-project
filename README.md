@@ -36,7 +36,7 @@ When running code locally, some files may be generated that are only for your ow
  
 ## CODE_OF_CONDUCT.md
 
-A [Code of Conduct](https://en.wikipedia.org/wiki/Code_of_conduct) sets forth the standard of conduct expected of those who engage with the project. 
+A [Code of Conduct](https://en.wikipedia.org/wiki/Code_of_conduct) sets forth the standard of conduct expected of project contributors. 
 
 * [Adding a Code of Conduct to Your Project](https://help.github.com/articles/adding-a-code-of-conduct-to-your-project)
 
@@ -50,9 +50,9 @@ A CONTRIBUTING.md file provides guidance to contributors about best practices fo
 
 Similarly to a journalistic styleguide, a programming styleguide illustrates the project's preferred coding conventions.
 
-## ISSUES_TEMPLATES.md and PULL_REQUESTS_TEMPLATES.md
+## ISSUE_TEMPLATE.md and PULL_REQUEST_TEMPLATE.md
 
-
+When an issues or pull request template is added to a repository, the template contents will automatically populate in the issue or pull request form body. 
 
 * [GitHub Issue and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates)
 * [Creating an Issue Template for Your Repository](https://help.github.com/articles/creating-an-issue-template-for-your-repository)
@@ -113,7 +113,7 @@ Organization accounts are for code owned by groups (companies, OSS projects)
 
 ## Teams
 
-Teams make permission management easier. A developer added to a team now has access repos based on team access
+Teams make permission management easier. A developer added to a team now has access to repos based on team access
 
 ## Projects
 
@@ -155,8 +155,16 @@ Labels
 * Label examples: Help Wanted, Beginner Friendly
 * Label examples: Features, Bugs, Enhancements
 
-## Funding
+<!--
+Listing issues- issues tab, open/closed, filtering issues
+Labels- including multiple labels
+Assign, milestone, issue notifications, subscribe/unsubscribe to an issue
+Respond by replying to any email about that issue
 
+Issues- keyboard shortcuts
+New issue, drop down list of developers, select/create new milestone
+Rails repo issues- filter issues by milestone, labels
+-->
 
 <!--
 Repo Access
@@ -186,20 +194,7 @@ Mention an issue in a commit and will show up in the issue and notify anyone sub
 Close to issue with a commit: include "fixes" "closes" or "resolves" to auto close the issue when merged in default branch (probably master)
 
     $ git commit -m "Fixes #1"
-
 -->
-<!--
-Listing issues- issues tab, open/closed, filtering issues
-Labels- including multiple labels
-Assign, milestone, issue notifications, subscribe/unsubscribe to an issue
-Respond by replying to any email about that issue
-
-Issues- keyboard shortcuts
-New issue, drop down list of developers, select/create new milestone
-Rails repo issues- filter issues by milestone, labels
--->
-
-
 
 ## New Contributors
 
@@ -239,6 +234,9 @@ Fantastic README Examples
 * [Awesome README](https://github.com/matiassingers/awesome-readme)
 * [Hackathon Starter](https://github.com/sahat/hackathon-starter)
 * [Megaboilerplate](https://github.com/sahat/megaboilerplate)
+
+Project Funding
+* [Lemonade Stand](https://github.com/nayafia/lemonade-stand)
 
 <!--
 Issue triage
