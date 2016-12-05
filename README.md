@@ -32,6 +32,8 @@ Table of Contents
 
 While looking through GitHub repositories and reading/watching coding tutorials, I have come across a number of best practices for setting up projects. I've never seen these best practices in one place, so I decided to create my own list. Though some are more common than others, a few are obscure, but highly useful! This list is fairly unopinionated. Depending on the language/framework used in a project, additional config files will be needed. 
 
+<hr>
+
 # Documentation File Types
 
 ## Markdown
@@ -67,6 +69,8 @@ A [Software License](https://en.wikipedia.org/wiki/Software_license) specifies t
 * [GitHub Choose a License](http://choosealicense.com)
 * [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing) 
 
+<hr>
+
 # Git and Editor Configs
 
 ## .gitignore
@@ -90,6 +94,8 @@ https://git-scm.com/docs/git-config
 A .editconfig is a dotfile in which a developer or project maintainers can specify local editor preferences. For example, if developers are working on different operating systems (Linux, Mac OS, Windows), .editconfig settings can be used to standardize line endings across all machines. 
  
  * [EditorConfig](http://editorconfig.org)
+ 
+<hr> 
  
 # Contributing Documentation 
  
@@ -117,6 +123,8 @@ When an issues or pull request template is added to a repository, the template c
 * [Creating an Issue Template for Your Repository](https://help.github.com/articles/creating-an-issue-template-for-your-repository)
 * [Creating an Pull Request Template for Your Repository](https://help.github.com/articles/creating-a-pull-request-template-for-your-repository)
 
+<hr>
+
 # Releast Documentation
 
 ## CHANGELOG.md
@@ -126,6 +134,8 @@ A [CHANGELOG.md](https://en.wikipedia.org/wiki/Changelog) file lists notable cha
 ## RELEASING.md
 
 A RELEASING.md file gives instructions for how to complete a software release. 
+
+<hr>
 
 # Advanced Work Patterns
 
