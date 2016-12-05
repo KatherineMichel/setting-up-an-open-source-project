@@ -216,11 +216,11 @@ Labels
 
 ## Milestones
 
-:top: <sub>[**back to top**](#table-of-contents)</sub>
-
 ## Pull Requests
 
 ## Code Review
+
+:top: <sub>[**back to top**](#table-of-contents)</sub>
 
 <hr>
 
