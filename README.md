@@ -3,6 +3,16 @@
 ![](come-in-open-source.jpg)
 [Photo Credit: Pete McCarthy](https://www.flickr.com/photos/petemccarthy/6866996865/in/photolist-bsP9VF-5HxTaS-aDjRJP-aDjQrH-deG7gC-aDoF1o-aDjPXc-aDoGmu-6rVG54-4SamTJ-aDoGf7-6rkTRy-oau5mJ-rufey1-q7f8tc-6D4R4n-ob5fBr-9ZakZE-fUg5eD-ruf1Y1-hvbS4v-afKdid-nPLGo6-p6vQv5-e28yoh-djiwmi-pPy6cL-74jKzz-nVcJqF-nQiamA-6fSXcE-aDoGyU-fAjoZM-4S4Lcz-5ZXKj8-aDjQSr-7z68V1-pPDNbq-edZStq-8f1nQ1-eVGah1-piE7UU-qzeuLm-6fSGWA-3TRAoj-8Yko35-6fSSyE-6fNEBM-fcweAo-qzfe8W)
 
+Table of Contents
+-----------------
+
+- [About](#about)
+- [Open Source Documentation](#open-source-documentation)
+    - [Markdown](#markdown)
+    - [Dotfiles](#dotfiles)
+    - [Wiki](#wiki)
+    - [README](#readme)
+    
 # About
 
 While looking through GitHub repositories and reading/watching coding tutorials, I have come across a number of best practices for setting up projects. I've never seen these best practices in one place, so I decided to create my own list. Though some are more common than others, a few are obscure, but highly useful! This list is fairly unopinionated. Depending on the language/framework used in a project, additional config files will be needed. 
