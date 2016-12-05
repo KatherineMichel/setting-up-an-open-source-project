@@ -18,15 +18,18 @@ Table of Contents
     - [.gitattributes](#gitattributes)    
     - [.gitconfig](#gitconfig)
     - [.editconfig](#editconfig)
+
+- [Advanced Work Patterns](#advanced-work-patterns)
+
+- [Release Documentation](#release-documentation)
+    - [CHANGELOG.md](#changelogmd)
+    - [RELEASING.md](#releasingmd)
+    
 - [Contributing Documentation](#contributing-documentation)
     - [CODE_OF_CONDUCT.md](#code_of_conductmd)
     - [CONTRIBUTING.md](#contributingmd)
     - [Styleguide](#styleguide)
     - [ISSUE_TEMPLATE.md and PULL_REQUEST_TEMPLATE.md](#issue_templatemd-and-pull_request_templatemd)
-- [Release Documentation](#release-documentation)
-    - [CHANGELOG.md](#changelogmd)
-    - [RELEASING.md](#releasingmd)
-- [Advanced Work Patterns](#advanced-work-patterns)
 
 <hr>
 
@@ -105,6 +108,31 @@ A .editconfig is a dotfile in which a developer or project maintainers can speci
 
 <hr> 
  
+ 
+# Advanced Work Patterns
+
+## Methodologies
+
+* [Understanding the GitHub Flow](https://guides.github.com/introduction/flow)
+* [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
+* [Semver](http://semver.org)
+
+<hr>
+
+# Release Documentation
+
+## CHANGELOG.md
+
+A [CHANGELOG.md](https://en.wikipedia.org/wiki/Changelog) file lists notable changes made to the project. 
+
+## RELEASING.md
+
+A RELEASING.md file gives instructions for how to complete a software release. 
+
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
+<hr>
+
 # Contributing Documentation 
  
 ## CODE_OF_CONDUCT.md
@@ -135,30 +163,10 @@ When an issues or pull request template is added to a repository, the template c
 
 <hr>
 
-# Release Documentation
-
-## CHANGELOG.md
-
-A [CHANGELOG.md](https://en.wikipedia.org/wiki/Changelog) file lists notable changes made to the project. 
-
-## RELEASING.md
-
-A RELEASING.md file gives instructions for how to complete a software release. 
-
-:top: <sub>[**back to top**](#table-of-contents)</sub>
-
-<hr>
 
 
-# Advanced Work Patterns
 
-## Methodologies
 
-* [Understanding the GitHub Flow](https://guides.github.com/introduction/flow)
-* [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
-* [Semver](http://semver.org)
-
-<hr>
 
 ## Special Features
 
