@@ -29,9 +29,12 @@ Table of Contents
     - [Organizations](#organizations)
     - [Teams](#teams)
     - [Tasks](#tasks)   
-- [Tools](#tools)
+- [Workflow Tools](#workflow-tools)
     - [Projects](#projects) 
     - [Issues](#issues) 
+    - [Milestones](#milestones)
+    - [Pull Requests](#pull-requests) 
+    - [Code Review](#code-review)
 - [Contributing Templates](#contributing-templates)
     - [ISSUE_TEMPLATE.md](#issue_templatemd)
     - [PULL_REQUEST_TEMPLATE.md](#pull_request_templatemd)
@@ -191,34 +194,11 @@ Media
 
 <hr>
 
-# Tools
+# Workflow Tools
 
 GitHub provides a number of special features that help with workflow. 
 
 * [GitHub Features](https://github.com/features)
-
-Examples
-* Projects
-* Milestones
-* Issues
-* Pull Requests
-* Code Review
-
-<!--
-Code Review (See also Project Management)
-* [Code Review Wikipedia](https://en.wikipedia.org/wiki/Code_review)
-* [List of Tools for Code Review Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_code_review)
-
-https://help.github.com/articles/about-repository-graphs#traffic
-
-https://guides.github.com/features/issues
-https://github.com/blog/957-introducing-issue-mentions
-
-Milestones
-https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests
-https://help.github.com/articles/associating-milestones-with-issues-and-pull-requests
-https://github.com/blog/2178-multiple-assignees-on-issues-and-pull-requests
--->
 
 ## Projects
 
@@ -234,7 +214,13 @@ Labels
 * Label examples: Help Wanted, Beginner Friendly
 * Label examples: Features, Bugs, Enhancements
 
+## Milestones
+
 :top: <sub>[**back to top**](#table-of-contents)</sub>
+
+## Pull Requests
+
+## Code Review
 
 <hr>
 
@@ -247,6 +233,22 @@ Respond by replying to any email about that issue
 Issues- keyboard shortcuts
 New issue, drop down list of developers, select/create new milestone
 Rails repo issues- filter issues by milestone, labels
+-->
+
+<!--
+Code Review (See also Project Management)
+* [Code Review Wikipedia](https://en.wikipedia.org/wiki/Code_review)
+* [List of Tools for Code Review Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_code_review)
+
+https://help.github.com/articles/about-repository-graphs#traffic
+
+https://guides.github.com/features/issues
+https://github.com/blog/957-introducing-issue-mentions
+
+Milestones
+https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests
+https://help.github.com/articles/associating-milestones-with-issues-and-pull-requests
+https://github.com/blog/2178-multiple-assignees-on-issues-and-pull-requests
 -->
 
 <!--
@@ -294,6 +296,8 @@ When an issues or pull request template is added to a repository, the template c
 * [Creating an Pull Request Template for Your Repository](https://help.github.com/articles/creating-a-pull-request-template-for-your-repository)
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
+
+<hr>
 
 # Contributing Documentation 
  
@@ -364,6 +368,8 @@ Project Funding
 * [Lemonade Stand](https://github.com/nayafia/lemonade-stand)
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
+
+<hr>
 
 <!--
 Issue triage
