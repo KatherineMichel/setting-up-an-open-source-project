@@ -18,7 +18,7 @@ Table of Contents
     - [.gitattributes](#gitattributes)    
     - [.gitconfig](#gitconfig)
     - [.editconfig](#editconfig)
-- [Contributing Documentation](#contributing-documentationmd)
+- [Contributing Documentation](#contributing-documentation)
     - [CODE_OF_CONDUCT.md](#code_of_conductmd)
     - [CONTRIBUTING.md](#contributingmd)
     - [Styleguide](#styleguide)
@@ -127,7 +127,7 @@ When an issues or pull request template is added to a repository, the template c
 
 <hr>
 
-# Releast Documentation
+# Release Documentation
 
 ## CHANGELOG.md
 
@@ -147,6 +147,8 @@ A RELEASING.md file gives instructions for how to complete a software release.
 * [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
 * [Semver](http://semver.org)
 
+<hr>
+
 ## Special Features
 
 GitHub provides a number of special features that help with workflow. 
@@ -159,6 +161,8 @@ Examples
 * Issues
 * Pull Requests
 * Code Review
+
+<hr>
 
 <!--
 Code Review (See also Project Management)
@@ -184,13 +188,19 @@ Organization accounts are for code owned by groups (companies, OSS projects).
 
 * [About GitHub Organizations](https://help.github.com/articles/about-organizations)
 
+<hr>
+
 ## Teams
 
 Teams make permission management easier. A developer added to a team now has access to repos based on team access. 
 
+<hr>
+
 ## Projects
 
 * [Projects](https://help.github.com/articles/tracking-the-progress-of-your-work-with-projects)
+
+<hr>
 
 # Tasks
 
@@ -217,6 +227,8 @@ Media
 * Tutorials
 * Videos
 * Talks
+
+<hr>
 
 ## Issues
 
