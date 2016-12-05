@@ -23,7 +23,7 @@ A README usually suffices for providing project information. If not, every GitHu
 
 ## LICENSE.md
 
-A [Software License](https://en.wikipedia.org/wiki/Software_license) specifies the terms under which open source code can be used and redistributed. GitHub offers guidance for choosing a license. A repo that does not contain a license is considered copyrighted and therefore cannot be used publicly without permissions. 
+A [Software License](https://en.wikipedia.org/wiki/Software_license) specifies the terms under which open source code can be used and redistributed. GitHub offers guidance for choosing a license. A repo that does not contain a license is considered copyrighted and therefore cannot be used publicly without permission. 
 
 * [GitHub Choose a License](http://choosealicense.com)
 * [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing) 
@@ -68,7 +68,7 @@ A RELEASING.md file gives instructions for how to complete a software release.
 
 # Advanced Work Patterns
 
-## Release Models
+## Philosophies
 
 * [Understanding the GitHub Flow](https://guides.github.com/introduction/flow)
 * [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
@@ -83,6 +83,10 @@ Projects, Milestones, Issues, Pull Requests, Milestones, Code Review
 * [Projects](https://help.github.com/articles/tracking-the-progress-of-your-work-with-projects)
 
 <!--
+Code Review (See also Project Management)
+* [Code Review Wikipedia](https://en.wikipedia.org/wiki/Code_review)
+* [List of Tools for Code Review Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_code_review)
+
 https://help.github.com/articles/about-repository-graphs#traffic
 
 https://guides.github.com/features/issues
@@ -96,21 +100,40 @@ https://github.com/blog/2178-multiple-assignees-on-issues-and-pull-requests
 
 # Ownership and Authorization
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## Organizations
 
 * [About GitHub Organizations](https://help.github.com/articles/about-organizations)
+
+## Teams
+
+## Tasks
+
+Backend
+* Code
+* Plugin/utility libraries
+* Tools
+* Infrastructure (Hosting, Build-Tools, etc)
+* Tests
+* Bug reports
+* Examples
+* Translation
+
+Frontend
+* Design
+
+Support
+* Reviewed Pull Requests
+* Documentation
+* Answering Questions (in Issues, Stack Overflow, Gitter, Slack, etc.)
+
+Media
+* Blogposts
+* Tutorials
+* Videos
+* Talks
+
+
+
 
 Repo Access
 * Public repo- anyone can access
@@ -163,28 +186,7 @@ New issue, drop down list of developers, select/create new milestone
 Rails repo issues- filter issues by milestone, labels
 -->
 
-## Contributor Emoji key
 
-* [From All Contributors Emoji Key](https://github.com/kentcdodds/all-contributors#emoji-key)
-
-Emoji | Represents |
-:---: | --- |
-💻 | Code |
-🔌 | Plugin/utility libraries |
-🔧 | Tools |
-🚇 | Infrastructure (Hosting, Build-Tools, etc) |
-📖 | Documentation |
-🌍 | Translation | the translated content
-💁 | Answering Questions (in Issues, Stack Overflow, Gitter, Slack, etc.) | |
-⚠️ | Tests |
-🐛 | Bug reports |
-💡 | Examples |
-📝 | Blogposts |
-✅ | Tutorials |
-📹 | Videos |
-📢 | Talks |
-🎨 | Design |
-👀 | Reviewed Pull Requests |
 
 ## New Contributors
 
@@ -310,10 +312,6 @@ Recommended
 https://www.git-tower.com
 
 https://git-scm.com/book/en/Git-Basics-Tips-and-Tricks
-
-https://github.com/git-ftp
-https://github.com/github/git-lfs
-https://git-lfs.github.com
 
 * [Enterprise Markdown Cheat Sheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
 --> 
