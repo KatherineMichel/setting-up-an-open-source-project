@@ -28,12 +28,17 @@ Table of Contents
 - [Collaboration](#collaboration)
     - [Organizations](#organizations)
     - [Teams](#teams)
-    - [Tasks](#tasks)    
+    - [Tasks](#tasks)   
+- [Tools](#tools)
+    - [Projects](#projects) 
+    - [Issues](#issues) 
+- [Contributing Templates](#contributing-templates)
+    - [ISSUE_TEMPLATE.md](#issue_templatemd)
+    - [PULL_REQUEST_TEMPLATE.md](#pull_request_templatemd)
 - [Contributing Documentation](#contributing-documentation)
     - [CODE_OF_CONDUCT.md](#code_of_conductmd)
     - [CONTRIBUTING.md](#contributingmd)
     - [Styleguide](#styleguide)
-    - [ISSUE_TEMPLATE.md and PULL_REQUEST_TEMPLATE.md](#issue_templatemd-and-pull_request_templatemd)
 
 <hr>
 
@@ -126,6 +131,8 @@ A .editconfig is a dotfile in which a developer or project maintainers can speci
 
 * [Semver](http://semver.org)
 
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
 <hr>
 
 # Release Documentation
@@ -180,44 +187,11 @@ Media
 * Videos
 * Talks
 
-<hr>
-
-# Contributing Documentation 
- 
-## CODE_OF_CONDUCT.md
-
-A [Code of Conduct](https://en.wikipedia.org/wiki/Code_of_conduct) sets forth the standard of conduct expected of project contributors. 
-
-* [Adding a Code of Conduct to Your Project](https://help.github.com/articles/adding-a-code-of-conduct-to-your-project)
-
-## CONTRIBUTING.md
-
-A CONTRIBUTING.md file provides guidance to contributors about best practices for contributing to the project. 
-
-* [Setting Guidelines for Repository Contributors](https://help.github.com/articles/setting-guidelines-for-repository-contributors)
-
-## Styleguide
-
-Similarly to a journalistic styleguide, a programming styleguide illustrates the project's preferred coding conventions.
-
-## ISSUE_TEMPLATE.md and PULL_REQUEST_TEMPLATE.md
-
-When an issues or pull request template is added to a repository, the template contents will automatically populate in the issue or pull request form body. These templates can be stored in the root or a hidden directory named .github.
-
-* [GitHub Issue and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates)
-* [Creating an Issue Template for Your Repository](https://help.github.com/articles/creating-an-issue-template-for-your-repository)
-* [Creating an Pull Request Template for Your Repository](https://help.github.com/articles/creating-a-pull-request-template-for-your-repository)
-
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
 <hr>
 
-
-
-
-
-
-## Special Features
+# Tools
 
 GitHub provides a number of special features that help with workflow. 
 
@@ -229,8 +203,6 @@ Examples
 * Issues
 * Pull Requests
 * Code Review
-
-<hr>
 
 <!--
 Code Review (See also Project Management)
@@ -261,6 +233,8 @@ Enable Issues to:
 Labels
 * Label examples: Help Wanted, Beginner Friendly
 * Label examples: Features, Bugs, Enhancements
+
+:top: <sub>[**back to top**](#table-of-contents)</sub>
 
 <hr>
 
@@ -305,6 +279,44 @@ Close to issue with a commit: include "fixes" "closes" or "resolves" to auto clo
     $ git commit -m "Fixes #1"
 -->
 
+# Contributing Templates
+
+When an issues or pull request template is added to a repository, the template contents will automatically populate in the issue or pull request form body. These templates can be stored in the root or a hidden directory named .github.
+
+* [GitHub Issue and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates)
+
+## ISSUE_TEMPLATE.md
+
+* [Creating an Issue Template for Your Repository](https://help.github.com/articles/creating-an-issue-template-for-your-repository)
+
+## PULL_REQUEST_TEMPLATE.md
+
+* [Creating an Pull Request Template for Your Repository](https://help.github.com/articles/creating-a-pull-request-template-for-your-repository)
+
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
+# Contributing Documentation 
+ 
+## CODE_OF_CONDUCT.md
+
+A [Code of Conduct](https://en.wikipedia.org/wiki/Code_of_conduct) sets forth the standard of conduct expected of project contributors. 
+
+* [Adding a Code of Conduct to Your Project](https://help.github.com/articles/adding-a-code-of-conduct-to-your-project)
+
+## CONTRIBUTING.md
+
+A CONTRIBUTING.md file provides guidance to contributors about best practices for contributing to the project. 
+
+* [Setting Guidelines for Repository Contributors](https://help.github.com/articles/setting-guidelines-for-repository-contributors)
+
+## Styleguide
+
+Similarly to a journalistic styleguide, a programming styleguide illustrates the project's preferred coding conventions.
+
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
+<hr>
+
 # New Contributors
 
 Ideally, make project welcoming to newcomers, with user-friendly documentation. 
@@ -314,6 +326,8 @@ Helpful Info
 
 Mentors
 * Include mentor list if applicable
+
+:top: <sub>[**back to top**](#table-of-contents)</sub>
 
 <hr>
 
@@ -348,6 +362,8 @@ Fantastic README Examples
 
 Project Funding
 * [Lemonade Stand](https://github.com/nayafia/lemonade-stand)
+
+:top: <sub>[**back to top**](#table-of-contents)</sub>
 
 <!--
 Issue triage
