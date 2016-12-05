@@ -15,7 +15,8 @@ Table of Contents
     - [README](#readme)
     - [LICENSE.md](#licensemd)
     - [Wiki](#wiki)
-- [Git and Editor Configs](#git-and-editor-configs)    
+- [Environment, Git and Editor Configs](#environment-git-and-editor-configs)    
+    - [.env](#env) 
     - [.gitattributes](#gitattributes)    
     - [.gitconfig](#gitconfig)
     - [.editconfig](#editconfig)
@@ -43,6 +44,8 @@ Table of Contents
     - [CODE_OF_CONDUCT.md](#code_of_conductmd)
     - [CONTRIBUTING.md](#contributingmd)
     - [Styleguide](#styleguide)
+- [New Contributors](#new-contributors)
+- [Helpful Resources](#helpful-resources)
 
 <hr>
 
@@ -56,10 +59,10 @@ While looking through GitHub repositories and reading/watching coding tutorials,
 
 # Testimonials
 
-> [**“Great idea and that's really useful.”**]<br>
+> **“Great idea and that's really useful.”**<br>
 > — Jeff
 
-> [**“Cool :) This looks really useful. I'll have to follow the suggestions there.”**]<br>
+> **“Cool :) This looks really useful. I'll have to follow the suggestions there.”**<br>
 > — Mariatta
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
@@ -107,7 +110,9 @@ A [Software License](https://en.wikipedia.org/wiki/Software_license) specifies t
 
 <hr>
 
-# Git and Editor Configs
+# Environment, Git and Editor Configs
+
+## .env
 
 ## .gitignore
 
