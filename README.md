@@ -3,6 +3,10 @@
 ![](come-in-open-source.jpg)
 [Photo Credit: Pete McCarthy](https://www.flickr.com/photos/petemccarthy/6866996865/in/photolist-bsP9VF-5HxTaS-aDjRJP-aDjQrH-deG7gC-aDoF1o-aDjPXc-aDoGmu-6rVG54-4SamTJ-aDoGf7-6rkTRy-oau5mJ-rufey1-q7f8tc-6D4R4n-ob5fBr-9ZakZE-fUg5eD-ruf1Y1-hvbS4v-afKdid-nPLGo6-p6vQv5-e28yoh-djiwmi-pPy6cL-74jKzz-nVcJqF-nQiamA-6fSXcE-aDoGyU-fAjoZM-4S4Lcz-5ZXKj8-aDjQSr-7z68V1-pPDNbq-edZStq-8f1nQ1-eVGah1-piE7UU-qzeuLm-6fSGWA-3TRAoj-8Yko35-6fSSyE-6fNEBM-fcweAo-qzfe8W)
 
+# About
+
+While looking through GitHub repositories and reading/watching coding tutorials, I have come across a number of best practices for setting up projects. I've never seen these best practices in one place, so I decided to create my own list. Though some are more common than others, a few are obscure, but highly useful! This list is fairly unopinionated. Depending on the language/framework used in a project, additional config files will be needed. 
+
 # Open Source Documentation
 
 ## Markdown
@@ -10,6 +14,10 @@
 GitHub project documentation is often created using Markdown files (files that end in .md). Markdown tends to be simpler and easier to use than regular HTML. See [GitHub flavored Markdown](https://help.github.com/articles/github-flavored-markdown) for instructions. 
 
 ## Dotfiles
+
+Dotfiles begin with a dot and often contain configuration info specific to the developer or project. Dotfiles (or folders) are normally hidden from view. 
+
+* [Hidden File and Hidden Directory](https://en.wikipedia.org/wiki/Hidden_file_and_hidden_directory)
 
 ## README.md
 
@@ -32,13 +40,21 @@ A [Software License](https://en.wikipedia.org/wiki/Software_license) specifies t
 
 ## .gitignore
 
-When running code locally, some files may be generated that are only for your own local use. A .gitignore is used to instruct Git to not include these files when pushing code to GitHub, where they would be unncessary. GitHub provides .gitignore templates that vary by language or framework. 
+When running code locally, some files may be generated that are only for your own local use. A .gitignore is a dotfile used to instruct Git to not include these files when pushing code to GitHub, where they would be unncessary. GitHub provides .gitignore templates that vary by language or framework. 
 
 * [GitHub .gitignore Templates](https://github.com/github/gitignore) 
  
 ## .gitconfig 
  
+A .gitconfig is a dotfile in which a developer or project maintainers can specify local Git preferences.  
+ 
+<!--
+https://git-scm.com/docs/git-config
+--> 
+ 
 ## .editconfig 
+ 
+A .editconfig is a dotfile in which a developer or project maintainers can specify local editor preferences. For example, if developers are working on different operating systems (Linux, Mac OS, Windows), .editconfig settings can be used to standardize line endings across all machines. 
  
  * [EditorConfig](http://editorconfig.org)
  
@@ -76,7 +92,7 @@ A RELEASING.md file gives instructions for how to complete a software release.
 
 # Advanced Work Patterns
 
-## Philosophies
+## Methodologies
 
 * [Understanding the GitHub Flow](https://guides.github.com/introduction/flow)
 * [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
