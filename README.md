@@ -10,7 +10,7 @@ Table of Contents
 - [Documentation File Types](#documentation-file-types)
     - [Markdown](#markdown)
     - [Dotfiles](#dotfiles)
-- [Documentation](#documentation)
+- [Initial Documentation](#initial-documentation)
     - [README](#readme)
     - [LICENSE.md](#licensemd)
     - [Wiki](#wiki)
@@ -44,7 +44,9 @@ Dotfiles begin with a dot and often contain configuration info specific to the d
 
 * [Hidden File and Hidden Directory](https://en.wikipedia.org/wiki/Hidden_file_and_hidden_directory)
 
-# Documentation
+<hr>
+
+# Initial Documentation
 
 ## README.md
 
