@@ -7,6 +7,7 @@ Table of Contents
 -----------------
 
 - [About](#about)
+- [Testimonials](#testimonials)
 - [Documentation File Types](#documentation-file-types)
     - [Markdown](#markdown)
     - [Dotfiles](#dotfiles)
@@ -48,6 +49,20 @@ Table of Contents
 # About
 
 While looking through GitHub repositories and reading/watching coding tutorials, I have come across a number of best practices for setting up projects. I've never seen these best practices in one place, so I decided to create my own list. Though some are more common than others, a few are obscure, but highly useful! This list is fairly unopinionated. Depending on the language/framework used in a project, additional config files will be needed. 
+
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
+<hr>
+
+# Testimonials
+
+> [**“Great idea and that's really useful.”**]<br>
+> — Jeff
+
+> [**“Cool :) This looks really useful. I'll have to follow the suggestions there.”**]<br>
+> — Mariatta
+
+:top: <sub>[**back to top**](#table-of-contents)</sub>
 
 <hr>
 
