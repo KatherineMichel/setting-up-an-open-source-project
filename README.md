@@ -18,13 +18,17 @@ Table of Contents
     - [.gitattributes](#gitattributes)    
     - [.gitconfig](#gitconfig)
     - [.editconfig](#editconfig)
-
 - [Advanced Work Patterns](#advanced-work-patterns)
-
+    - [Git Flow](#git-flow)
+    - [A Successful Git Branching Model](#a-successful-git-branching-model)
+    - [Semver](#semver)    
 - [Release Documentation](#release-documentation)
     - [CHANGELOG.md](#changelogmd)
-    - [RELEASING.md](#releasingmd)
-    
+    - [RELEASING.md](#releasingmd)      
+- [Collaboration](#collaboration)
+    - [Organizations](#organizations)
+    - [Teams](#teams)
+    - [Tasks](#tasks)    
 - [Contributing Documentation](#contributing-documentation)
     - [CODE_OF_CONDUCT.md](#code_of_conductmd)
     - [CONTRIBUTING.md](#contributingmd)
@@ -108,13 +112,18 @@ A .editconfig is a dotfile in which a developer or project maintainers can speci
 
 <hr> 
  
- 
-# Advanced Work Patterns
+# Advanced Work Flow
 
-## Methodologies
+## Git Flow
 
 * [Understanding the GitHub Flow](https://guides.github.com/introduction/flow)
+
+## A Successful Git Branching Model
+
 * [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
+
+## Semver
+
 * [Semver](http://semver.org)
 
 <hr>
@@ -130,6 +139,46 @@ A [CHANGELOG.md](https://en.wikipedia.org/wiki/Changelog) file lists notable cha
 A RELEASING.md file gives instructions for how to complete a software release. 
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
+
+<hr>
+
+# Collaboration
+
+## Organizations
+
+Organization accounts are for code owned by groups (companies, OSS projects). 
+
+* [About GitHub Organizations](https://help.github.com/articles/about-organizations)
+
+## Teams
+
+Teams make permission management easier. A developer added to a team now has access to repos based on team access. 
+
+## Tasks
+
+Backend
+* Code
+* Plugin/utility libraries
+* Tools
+* Infrastructure (Hosting, Build-Tools, etc)
+* Tests
+* Bug reports
+* Examples
+* Translation
+
+Frontend
+* Design
+
+Support
+* Reviewed Pull Requests
+* Documentation
+* Answering Questions (in Issues, Stack Overflow, Gitter, Slack, etc.)
+
+Media
+* Blogposts
+* Tutorials
+* Videos
+* Talks
 
 <hr>
 
@@ -199,55 +248,9 @@ https://help.github.com/articles/associating-milestones-with-issues-and-pull-req
 https://github.com/blog/2178-multiple-assignees-on-issues-and-pull-requests
 -->
 
-# Ownership and Authorization
-
-## Organizations
-
-Organization accounts are for code owned by groups (companies, OSS projects). 
-
-* [About GitHub Organizations](https://help.github.com/articles/about-organizations)
-
-<hr>
-
-## Teams
-
-Teams make permission management easier. A developer added to a team now has access to repos based on team access. 
-
-<hr>
-
 ## Projects
 
 * [Projects](https://help.github.com/articles/tracking-the-progress-of-your-work-with-projects)
-
-<hr>
-
-# Tasks
-
-Backend
-* Code
-* Plugin/utility libraries
-* Tools
-* Infrastructure (Hosting, Build-Tools, etc)
-* Tests
-* Bug reports
-* Examples
-* Translation
-
-Frontend
-* Design
-
-Support
-* Reviewed Pull Requests
-* Documentation
-* Answering Questions (in Issues, Stack Overflow, Gitter, Slack, etc.)
-
-Media
-* Blogposts
-* Tutorials
-* Videos
-* Talks
-
-<hr>
 
 ## Issues
 
