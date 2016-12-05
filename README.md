@@ -14,8 +14,19 @@ Table of Contents
     - [README](#readme)
     - [LICENSE.md](#licensemd)
     - [Wiki](#wiki)
+- [Git and Editor Configs](#git-and-editor-configs)    
     - [.gitattributes](#gitattributes)    
     - [.gitconfig](#gitconfig)
+    - [.editconfig](#editconfig)
+- [Contributing Documentation](#contributing-documentationmd)
+    - [CODE_OF_CONDUCT.md](#code-of-conductmd)
+    - [CONTRIBUTING.md](#contributingmd)
+    - [Styleguide](#styleguide)
+    - [ISSUE_TEMPLATE.md and PULL_REQUEST_TEMPLATE.md](#issue-templatemd-and-pull-request-templatemd)
+- [Release Documentation](#release-documentation)
+    - [CHANGELOG.md](#changelogmd)
+    - [RELEASING.md](#releasingmd)
+- [Advanced Work Patterns](#advanced-work-patterns)
 
 # About
 
@@ -54,6 +65,8 @@ A [Software License](https://en.wikipedia.org/wiki/Software_license) specifies t
 * [GitHub Choose a License](http://choosealicense.com)
 * [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing) 
 
+# Git and Editor Configs
+
 ## .gitignore
 
 When running code locally, some files may be generated that are only for your own local use. A .gitignore is a dotfile used to instruct Git to not include these files when pushing code to GitHub, where they would be unncessary. GitHub provides .gitignore templates that vary by language or framework. Alternatively, files to be ignored can be stores in hidden folders named .git/info/exclude. 
@@ -75,6 +88,8 @@ https://git-scm.com/docs/git-config
 A .editconfig is a dotfile in which a developer or project maintainers can specify local editor preferences. For example, if developers are working on different operating systems (Linux, Mac OS, Windows), .editconfig settings can be used to standardize line endings across all machines. 
  
  * [EditorConfig](http://editorconfig.org)
+ 
+# Contributing Documentation 
  
 ## CODE_OF_CONDUCT.md
 
@@ -99,6 +114,8 @@ When an issues or pull request template is added to a repository, the template c
 * [GitHub Issue and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates)
 * [Creating an Issue Template for Your Repository](https://help.github.com/articles/creating-an-issue-template-for-your-repository)
 * [Creating an Pull Request Template for Your Repository](https://help.github.com/articles/creating-a-pull-request-template-for-your-repository)
+
+# Releast Documentation
 
 ## CHANGELOG.md
 
