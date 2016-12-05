@@ -28,6 +28,8 @@ Table of Contents
     - [RELEASING.md](#releasingmd)
 - [Advanced Work Patterns](#advanced-work-patterns)
 
+<hr>
+
 # About
 
 While looking through GitHub repositories and reading/watching coding tutorials, I have come across a number of best practices for setting up projects. I've never seen these best practices in one place, so I decided to create my own list. Though some are more common than others, a few are obscure, but highly useful! This list is fairly unopinionated. Depending on the language/framework used in a project, additional config files will be needed. 
@@ -226,6 +228,8 @@ Labels
 * Label examples: Help Wanted, Beginner Friendly
 * Label examples: Features, Bugs, Enhancements
 
+<hr>
+
 <!--
 Listing issues- issues tab, open/closed, filtering issues
 Labels- including multiple labels
@@ -267,7 +271,7 @@ Close to issue with a commit: include "fixes" "closes" or "resolves" to auto clo
     $ git commit -m "Fixes #1"
 -->
 
-## New Contributors
+# New Contributors
 
 Ideally, make project welcoming to newcomers, with user-friendly documentation. 
 
@@ -277,7 +281,9 @@ Helpful Info
 Mentors
 * Include mentor list if applicable
 
-## Helpful Resources
+<hr>
+
+# Helpful Resources
 
 * [GitHub Blog](https://github.com/blog) 
 
