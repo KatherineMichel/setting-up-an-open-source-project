@@ -12,7 +12,7 @@ Table of Contents
     - [Markdown](#markdown)
     - [Dotfiles](#dotfiles)
 - [Initial Documentation](#initial-documentation)
-    - [README](#readme)
+    - [README.md](#readmemd)
     - [Wiki](#wiki)
     - [LICENSE.md](#licensemd)
 - [Environment, Git and Editor Configs](#environment-git-and-editor-configs)    
@@ -88,7 +88,7 @@ Dotfiles begin with a dot and often contain configuration info specific to the d
 
 # Initial Documentation
 
-## README
+## README.md
 
 A [README](https://en.wikipedia.org/wiki/README) is a file that contains project information and instructions.  
 
@@ -198,7 +198,7 @@ Teams make permission management easier. A developer added to a team now has acc
 
 ## Common Project Contributor Tasks
 
-Backend
+### Backend
 * Code
 * Plugin/utility libraries
 * Tools
@@ -208,15 +208,15 @@ Backend
 * Examples
 * Translation
 
-Frontend
+### Frontend
 * Design
 
-Support
+### Support
 * Reviewed Pull Requests
 * Documentation
 * Answering Questions (in Issues, Stack Overflow, Gitter, Slack, etc.)
 
-Media
+### Media
 * Blogposts
 * Tutorials
 * Videos
@@ -357,13 +357,10 @@ Similarly to a journalistic styleguide, a programming styleguide illustrates the
 
 # New Contributors
 
-Ideally, make project welcoming to newcomers, with user-friendly documentation. 
+Ideally, make project welcoming to newcomers, with user-friendly documentation. Include a mentor list, if applicable. 
 
 Helpful Info
 * [Helping People Contribute to Your Project](https://help.github.com/articles/helping-people-contribute-to-your-project)
-
-Mentors
-* Include mentor list if applicable
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
