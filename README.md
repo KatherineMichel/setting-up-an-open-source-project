@@ -31,6 +31,7 @@ Table of Contents
 - [Collaboration](#collaboration)
     - [Organizations](#organizations)
     - [Teams](#teams)
+    - [Repository Access](#repository-access)
 - [Common Project Contributor Tasks](#common-project-contributor-tasks)  
     - [Backend](#backend)
     - [Frontend](#frontend)
@@ -151,7 +152,7 @@ A .editconfig is a dotfile in which a developer or project maintainers can speci
 
 ## Git Flow
 
-GitHub flow is GitHub's "lightweight, branch-based workflow."   
+GitHub Flow is GitHub's "lightweight, branch-based workflow."   
 
 * [Understanding the GitHub Flow](https://guides.github.com/introduction/flow)
 
@@ -162,6 +163,10 @@ GitHub flow is GitHub's "lightweight, branch-based workflow."
 ## Comparison between Git Flow and A Successful Git Branching Model
 
 Scott Chacon, a GitHub developer, wrote in a blog post called "[Issues with git-flow](http://scottchacon.com/2011/08/31/github-flow.html)" that GitHub Flow is a simple process that can be used to deploy often. In contrast, git-flow (from A Successful Git Branching Model), is a sophisticated process focused on major releases, and may be more complicated than what most developers need.
+
+## Startup Engineering MOOC
+
+Startup Engineering MOOC is currently out of commission, but is a highly recommended introduction to staged deployment using GitHub, Heroku, and AWS. 
 
 ## Semver
 
@@ -199,6 +204,11 @@ Teams make permission management easier. A developer added to a team now has acc
 
 * [Setting Up Teams](https://help.github.com/articles/setting-up-teams)
 * [Maintaining Teams](https://help.github.com/articles/maintaining-teams)
+
+## Repository Access
+
+* Public repo- anyone can access
+* Private repo- only designated members can access
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -246,13 +256,22 @@ GitHub provides a number of special features that help with workflow.
 
 ## Issues
 
-Enable Issues to:
-* Manage features
-* Track bugs
+Issues are discussion threads used to ask questions, propose new functionality, and report bugs. Issues can be assigned to people, associated with a milestone, or tagged with one or more labels. Issues that are no longer relevant can be closed.
+
+
 
 Labels
-* Label examples: Help Wanted, Beginner Friendly
-* Label examples: Features, Bugs, Enhancements
+* Difficulty level labels: difficulty: easy, difficulty: medium, and difficulty: hard
+* Label examples: help wanted, up-for-grabs, first-timers-only, beginner friendly
+* Label examples: question, for discussion, docs, feature, bug, enhancement
+
+Types of GitHub Comments
+* On the pull request
+* On the commit
+* On a line
+
+Commenting Enhancements
+* @ mentioning
 
 ## Milestones
 
@@ -265,13 +284,11 @@ Labels
 <hr>
 
 <!--
-Listing issues- issues tab, open/closed, filtering issues
-Labels- including multiple labels
-Assign, milestone, issue notifications, subscribe/unsubscribe to an issue
+Listing issues- issues tab, filtering issues
+issue notifications, subscribe/unsubscribe to an issue
 Respond by replying to any email about that issue
 
 Issues- keyboard shortcuts
-New issue, drop down list of developers, select/create new milestone
 Rails repo issues- filter issues by milestone, labels
 -->
 
@@ -292,10 +309,6 @@ https://github.com/blog/2178-multiple-assignees-on-issues-and-pull-requests
 -->
 
 <!--
-Repo Access
-* Public repo- anyone can access
-* Private repo- only collaborators
-
 Access Control in GitHub
 * Owners can do anything
 * Collaborators have full read/write access (can push to the project, merge pull requests), but not administrative access (can't change settings, add new collaborators)
@@ -303,14 +316,6 @@ Access Control in GitHub
 * Have team members work on the same code base, but have separate repo that you send pull requests to that only your operations manager or team lead can accept
 
 ## Issues
-
-Types of GitHub Comments
-* On the pull request
-* On the commit
-* On a line
-
-Commenting Enhancements
-* @ mentioning
 
 Mention an issue in a commit and will show up in the issue and notify anyone subscribed to issue: 
 
@@ -396,6 +401,7 @@ Git Cheat Sheets and Tutorials
 GitHub Markdown Documentation
 * [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
 * [GitHub Mastering Markdown Tutorial](https://guides.github.com/features/mastering-markdown)
+* [Enterprise Markdown Cheat Sheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
 
 Project Funding
 * [Lemonade Stand](https://github.com/nayafia/lemonade-stand)
@@ -414,7 +420,6 @@ https://github.com/github/training-kit
 https://github.com/github/teach.github.com
 https://github.com/github-archive
 https://github.com/github-archive/training.github.com
-
 
 http://slides.com/kentcdodds/1st-pr#/
 * [First Timers Only](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.barzl7cwa) 
@@ -448,10 +453,8 @@ Example First-Timers Info
 * [How to Contribute to Pinax Blog Post](http://pinaxproject.com/pinax/ways_to_contribute) and [How to Contribute to Pinax Blog Post](http://blog.pinaxproject.com/2015/11/10/guide-how-contribute-pinax)
 * [Pinax First Timers Only](http://blog.pinaxproject.com/2016/01/11/first-timers-only-and-new-labels), and [Pinax Issues GitHub](https://github.com/pinax/pinax/issues)
 * [Pinax 16.04](http://blog.pinaxproject.com/2016/02/01/pinax-1604) and [Proposal for Pinax Distribution Versioning GitHub](https://github.com/pinax/pinax/issues/84)
-* [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
 
 http://pinaxproject.com/pinax/how_to_contribute
-https://docs.google.com/document/d/1f9hPTw3nelWy7nxaDawWP7EUl4QyeGeC4BNYeb4iWhU/edit
 http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation/
 https://www.youtube.com/channel/UCAPpNG85GLzUBwzYCjd4raQ
 https://plus.google.com/events/ca9n7iklbra4i67te8uh55468n0
@@ -475,8 +478,6 @@ Learn X in Y Minutes
 * [Learn X in Y Minutes Git](https://learnxinyminutes.com/docs/git)
 * [Learn X in Y Minutes Markdown](https://learnxinyminutes.com/docs/markdown) 
 
-https://github.com/jlord/git-it
-
 * [Git Index](http://gitref.org)  
 * [Stanford Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic) 
 
@@ -484,6 +485,5 @@ Recommended
 https://www.git-tower.com
 
 https://git-scm.com/book/en/Git-Basics-Tips-and-Tricks
-
-* [Enterprise Markdown Cheat Sheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
+https://github.com/jlord/git-it
 --> 
