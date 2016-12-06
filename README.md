@@ -31,7 +31,11 @@ Table of Contents
 - [Collaboration](#collaboration)
     - [Organizations](#organizations)
     - [Teams](#teams)
-    - [Common Project Contributor Tasks](#common-project-contributor-tasks)   
+- [Common Project Contributor Tasks](#common-project-contributor-tasks)  
+    - [Backend](#backend)
+    - [Frontend](#frontend)
+    - [Support](#support)
+    - [Media](#media)
 - [Workflow Tools](#workflow-tools)
     - [Projects](#projects) 
     - [Issues](#issues) 
@@ -196,9 +200,13 @@ Teams make permission management easier. A developer added to a team now has acc
 * [Setting Up Teams](https://help.github.com/articles/setting-up-teams)
 * [Maintaining Teams](https://help.github.com/articles/maintaining-teams)
 
-## Common Project Contributor Tasks
+:top: <sub>[**back to top**](#table-of-contents)</sub>
 
-### Backend
+<hr>
+
+# Common Project Contributor Tasks
+
+## Backend
 * Code
 * Plugin/utility libraries
 * Tools
@@ -208,15 +216,15 @@ Teams make permission management easier. A developer added to a team now has acc
 * Examples
 * Translation
 
-### Frontend
+## Frontend
 * Design
 
-### Support
+## Support
 * Reviewed Pull Requests
 * Documentation
 * Answering Questions (in Issues, Stack Overflow, Gitter, Slack, etc.)
 
-### Media
+## Media
 * Blogposts
 * Tutorials
 * Videos
