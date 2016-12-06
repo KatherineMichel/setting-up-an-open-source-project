@@ -88,7 +88,7 @@ Dotfiles begin with a dot and often contain configuration info specific to the d
 
 # Initial Documentation
 
-## README.md
+## README
 
 A [README](https://en.wikipedia.org/wiki/README) is a file that contains project information and instructions.  
 
