@@ -23,6 +23,7 @@ Table of Contents
 - [Advanced Work Patterns](#advanced-work-patterns)
     - [Git Flow](#git-flow)
     - [A Successful Git Branching Model](#a-successful-git-branching-model)
+    - [Comparison between Git Flow and A Successful Git Branching Model](#comparison-between-git-flow-and-a-successful-git-branching-model)       
     - [Semver](#semver)    
 - [Release Documentation](#release-documentation)
     - [CHANGELOG.md](#changelogmd)
@@ -114,6 +115,8 @@ A [Software License](https://en.wikipedia.org/wiki/Software_license) specifies t
 
 ## .env
 
+A .env file is a dotfile used to store environmental variables. Beware pushing a .env file to a public repo. Include the .env in the .gitignore (see below), or, set the environmental variables through the command line/bash or host dashboard.
+
 ## .gitignore
 
 When running code locally, some files may be generated that are only for your own local use. A .gitignore is a dotfile used to instruct Git to not include these files when pushing code to GitHub, where they would be unncessary. GitHub provides .gitignore templates that vary by language or framework. Alternatively, files to be ignored can be stores in hidden folders named .git/info/exclude. 
@@ -144,15 +147,21 @@ A .editconfig is a dotfile in which a developer or project maintainers can speci
 
 ## Git Flow
 
+GitHub flow is GitHub's "lightweight, branch-based workflow."   
+
 * [Understanding the GitHub Flow](https://guides.github.com/introduction/flow)
 
 ## A Successful Git Branching Model
 
-* [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
+[A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model) is a popular Git workflow methodology referenced often by professional developers.
+
+## Comparison between Git Flow and A Successful Git Branching Model
+
+Scott Chacon, a GitHub developer, wrote in a blog post called "[Issues with git-flow](http://scottchacon.com/2011/08/31/github-flow.html)" that GitHub Flow is a simple process that can be used to deploy often. In contrast, git-flow (from A Successful Git Branching Model), is a sophisticated process focused on major releases, and may be more complicated than what most developers need.
 
 ## Semver
 
-* [Semver](http://semver.org)
+[Semver](http://semver.org) is a popular versioning methodology used for software releases.
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
