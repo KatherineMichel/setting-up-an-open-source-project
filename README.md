@@ -367,7 +367,6 @@ Similarly to a journalistic styleguide, a programming styleguide illustrates the
 
 Ideally, make project welcoming to newcomers, with user-friendly documentation. Include a mentor list, if applicable. 
 
-Helpful Info
 * [Helping People Contribute to Your Project](https://help.github.com/articles/helping-people-contribute-to-your-project)
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
@@ -453,7 +452,6 @@ Example First-Timers Info
 
 http://pinaxproject.com/pinax/how_to_contribute
 https://docs.google.com/document/d/1f9hPTw3nelWy7nxaDawWP7EUl4QyeGeC4BNYeb4iWhU/edit
-http://blog.pinaxproject.com/2016/04/25/pinax-developer-profiles-shosh-seiden/
 http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation/
 https://www.youtube.com/channel/UCAPpNG85GLzUBwzYCjd4raQ
 https://plus.google.com/events/ca9n7iklbra4i67te8uh55468n0
