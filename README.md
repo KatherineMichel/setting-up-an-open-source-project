@@ -31,7 +31,7 @@ Table of Contents
 - [Collaboration](#collaboration)
     - [Organizations](#organizations)
     - [Teams](#teams)
-    - [Tasks](#tasks)   
+    - [Common Project Contributor Tasks](#common-project-contributor-tasks)   
 - [Workflow Tools](#workflow-tools)
     - [Projects](#projects) 
     - [Issues](#issues) 
@@ -119,7 +119,7 @@ A .env file is a dotfile used to store environmental variables. Beware pushing a
 
 ## .gitignore
 
-When running code locally, some files may be generated that are only for your own local use. A .gitignore is a dotfile used to instruct Git to not include these files when pushing code to GitHub, where they would be unncessary. GitHub provides .gitignore templates that vary by language or framework. Alternatively, files to be ignored can be stores in hidden folders named .git/info/exclude. 
+When running code locally, some files may be generated that are only for your own local use. A .gitignore is a dotfile used to instruct Git to not include these files when pushing code to GitHub, where they would be unncessary. GitHub provides .gitignore templates that vary by language or framework. Alternatively, files to be ignored can be stored in hidden folders named .git/info/exclude. 
 
 * [GitHub .gitignore Templates](https://github.com/github/gitignore) 
  
@@ -193,7 +193,10 @@ Organization accounts are for code owned by groups (companies, OSS projects).
 
 Teams make permission management easier. A developer added to a team now has access to repos based on team access. 
 
-## Tasks
+* [Setting Up Teams](https://help.github.com/articles/setting-up-teams)
+* [Maintaining Teams](https://help.github.com/articles/maintaining-teams)
+
+## Common Project Contributor Tasks
 
 Backend
 * Code
@@ -318,10 +321,12 @@ When an issues or pull request template is added to a repository, the template c
 
 ## ISSUE_TEMPLATE.md
 
+* [Example ISSUE_TEMPLATE Structure](https://github.com/KatherineMichel/setting-up-an-open-source-project/blob/master/example-ISSUE_TEMPLATE-structure.md)
 * [Creating an Issue Template for Your Repository](https://help.github.com/articles/creating-an-issue-template-for-your-repository)
 
 ## PULL_REQUEST_TEMPLATE.md
 
+* [Example PULL_REQUEST_TEMPLATE Structure](https://github.com/KatherineMichel/setting-up-an-open-source-project/blob/master/example-PULL_REQUEST_TEMPLATE-structure.md)
 * [Creating an Pull Request Template for Your Repository](https://help.github.com/articles/creating-a-pull-request-template-for-your-repository)
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
@@ -387,11 +392,6 @@ Git Cheat Sheets and Tutorials
 GitHub Markdown Documentation
 * [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
 * [GitHub Mastering Markdown Tutorial](https://guides.github.com/features/mastering-markdown)
-
-Fantastic README Examples
-* [Awesome README](https://github.com/matiassingers/awesome-readme)
-* [Hackathon Starter](https://github.com/sahat/hackathon-starter)
-* [Megaboilerplate](https://github.com/sahat/megaboilerplate)
 
 Project Funding
 * [Lemonade Stand](https://github.com/nayafia/lemonade-stand)
