@@ -408,6 +408,7 @@ Git and GitHub Documentation
 * [GitHub Guides](https://guides.github.com) 
 
 Git Cheat Sheets and Tutorials 
+* [Git and GitHub in Plain English](https://red-badger.com/blog/2016/11/29/gitgithub-in-plain-english)
 * [GitHub Development Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) 
 * [GitHub Hello World Tutorial](https://guides.github.com/activities/hello-world)
 * [Atlassian Git](https://www.atlassian.com/git) and [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)  
