@@ -178,6 +178,14 @@ Startup Engineering MOOC is currently out of commission, but is a highly recomme
 
 # Release Documentation
 
+## Roadmap
+
+A [Roadmap](https://en.wikipedia.org/wiki/Technology_roadmap) is a schedule for future project goals. A roadmap could be communicated through a Markdown file or through a [project](https://help.github.com/articles/about-projects). 
+
+Project Example
+* Project name is version name
+* Example columns: To Do, In Progress, Testing, Done
+
 ## CHANGELOG.md
 
 A [CHANGELOG.md](https://en.wikipedia.org/wiki/Changelog) file lists notable changes made to the project. 
@@ -252,18 +260,23 @@ GitHub provides a number of special features that help with workflow.
 
 ## Projects
 
+GitHub projects are a feature that can be used to prioritize and track workflow through a board of columns and cards.  
+
 * [Projects](https://help.github.com/articles/tracking-the-progress-of-your-work-with-projects)
 
 ## Issues
 
 Issues are discussion threads used to ask questions, propose new functionality, and report bugs. Issues can be assigned to people, associated with a milestone, or tagged with one or more labels. Issues that are no longer relevant can be closed.
 
+Example Difficulty Level Labels
+* difficulty: easy, difficulty: medium
+, difficulty: hard
 
+Example New Comer and Help Wanted Labels
+* help wanted, up-for-grabs, first-timers-only, beginner friendly
 
-Labels
-* Difficulty level labels: difficulty: easy, difficulty: medium, and difficulty: hard
-* Label examples: help wanted, up-for-grabs, first-timers-only, beginner friendly
-* Label examples: question, for discussion, docs, feature, bug, enhancement
+Example General Labels
+* question, for discussion, docs, feature, bug, enhancement
 
 Types of GitHub Comments
 * On the pull request
@@ -273,9 +286,18 @@ Types of GitHub Comments
 Commenting Enhancements
 * @ mentioning
 
+Mention an issue in a commit and it will show up in the issue and notify anyone subscribed to issue. Include "fixes" "closes" or "resolves to auto close the issue when merged in default branch (probably master)
+
+    $ git commit -m "Should help with issue #1"
+    $ git commit -m "Fixes #1"
+
 ## Milestones
 
+Milestones are a scheduling tool used to track the progress of activity.
+
 ## Pull Requests
+
+A pull request is a submission of a proposed change to a code base. 
 
 ## Code Review
 
@@ -314,16 +336,6 @@ Access Control in GitHub
 * Collaborators have full read/write access (can push to the project, merge pull requests), but not administrative access (can't change settings, add new collaborators)
 * If you want to restrict someone's access to commit to master branch, instead of adding them as a collaborator, ask them to fork the repo to make changes
 * Have team members work on the same code base, but have separate repo that you send pull requests to that only your operations manager or team lead can accept
-
-## Issues
-
-Mention an issue in a commit and will show up in the issue and notify anyone subscribed to issue: 
-
-    $ git commit -m "Should help with issue #1"
-
-Close to issue with a commit: include "fixes" "closes" or "resolves" to auto close the issue when merged in default branch (probably master)
-
-    $ git commit -m "Fixes #1"
 -->
 
 # Contributing Templates
