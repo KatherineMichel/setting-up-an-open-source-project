@@ -26,6 +26,7 @@ Table of Contents
     - [Comparison between Git Flow and A Successful Git Branching Model](#comparison-between-git-flow-and-a-successful-git-branching-model)       
     - [Semver](#semver)    
 - [Release Documentation](#release-documentation)
+    - [Roadmap](#roadmap)
     - [CHANGELOG.md](#changelogmd)
     - [RELEASING.md](#releasingmd)      
 - [Collaboration](#collaboration)
@@ -43,6 +44,7 @@ Table of Contents
     - [Milestones](#milestones)
     - [Pull Requests](#pull-requests) 
     - [Code Review](#code-review)
+    - [Repository Statistics](#repository-statistics)
 - [Contributing Templates](#contributing-templates)
     - [ISSUE_TEMPLATE.md](#issue_templatemd)
     - [PULL_REQUEST_TEMPLATE.md](#pull_request_templatemd)
@@ -218,6 +220,14 @@ Teams make permission management easier. A developer added to a team now has acc
 * Public repo- anyone can access
 * Private repo- only designated members can access
 
+<!--
+Access Control in GitHub
+* Owners can do anything
+* Collaborators have full read/write access (can push to the project, merge pull requests), but not administrative access (can't change settings, add new collaborators)
+* If you want to restrict someone's access to commit to master branch, instead of adding them as a collaborator, ask them to fork the repo to make changes
+* Have team members work on the same code base, but have separate repo that you send pull requests to that only your operations manager or team lead can accept
+-->
+
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
 <hr>
@@ -266,7 +276,7 @@ GitHub projects are a feature that can be used to prioritize and track workflow 
 
 ## Issues
 
-Issues are discussion threads used to ask questions, propose new functionality, and report bugs. Issues can be assigned to people, associated with a milestone, or tagged with one or more labels. Issues that are no longer relevant can be closed.
+Issues are discussion threads used to ask questions, propose new functionality, and report bugs. Issues can be assigned to people, associated with a milestone, or tagged with one or more labels (which can also be found through GitHub search). Issues that are no longer relevant can be closed.
 
 Example Difficulty Level Labels
 * difficulty: easy, difficulty: medium
@@ -301,6 +311,10 @@ A pull request is a submission of a proposed change to a code base.
 
 ## Code Review
 
+[Code review](https://en.wikipedia.org/wiki/Code_review) is examination of code to determine quality. 
+
+## Repository Statistics
+
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
 <hr>
@@ -315,8 +329,6 @@ Rails repo issues- filter issues by milestone, labels
 -->
 
 <!--
-Code Review (See also Project Management)
-* [Code Review Wikipedia](https://en.wikipedia.org/wiki/Code_review)
 * [List of Tools for Code Review Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_code_review)
 
 https://help.github.com/articles/about-repository-graphs#traffic
@@ -328,14 +340,6 @@ Milestones
 https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests
 https://help.github.com/articles/associating-milestones-with-issues-and-pull-requests
 https://github.com/blog/2178-multiple-assignees-on-issues-and-pull-requests
--->
-
-<!--
-Access Control in GitHub
-* Owners can do anything
-* Collaborators have full read/write access (can push to the project, merge pull requests), but not administrative access (can't change settings, add new collaborators)
-* If you want to restrict someone's access to commit to master branch, instead of adding them as a collaborator, ask them to fork the repo to make changes
-* Have team members work on the same code base, but have separate repo that you send pull requests to that only your operations manager or team lead can accept
 -->
 
 # Contributing Templates
@@ -477,10 +481,6 @@ https://medium.com/@kentcdodds/what-open-source-project-should-i-contribute-to-7
 
 Start contributing to open source
 * Do a GitHub search such as ["pull requests welcome"](https://github.com/search?utf8=%E2%9C%93&q=pull+requests+welcome)
-https://github.com/search?utf8=%E2%9C%93&q=help+wanted
-https://github.com/search?p=4&q=label%3A%22beginner%22&ref=searchresults&state=open&type=Issues&utf8=✓
-https://github.com/search?utf8=✓&q=label%3A%22help+wanted%22&type=Issues&ref=searchresults
-https://github.com/search?l=Ruby&q=label%3A%22help+wanted%22&ref=searchresults&type=Issues&utf8=✓
 
 * [Jekyll Code of Conduct GitHub](https://github.com/jekyll/jekyll/blob/master/CONDUCT.md)
 * [Rails Code of Conduct GitHub](https://github.com/rails/rails/blob/master/CODE_OF_CONDUCT.md)
