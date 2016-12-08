@@ -10,6 +10,12 @@
 
 ## Live Demo Link
 
+## Who We Are
+
+* List the project maintainers, core developers, and contact info
+* Link to Slack, gitter, IRC channel
+* Twitter handle, website, online documentation 
+
 ## Testimonials
 
 ## Features
