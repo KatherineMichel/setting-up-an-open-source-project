@@ -15,11 +15,12 @@ Table of Contents
     - [README.md](#readmemd)
     - [Wiki](#wiki)
     - [LICENSE.md](#licensemd)
-- [Environment, Git and Editor Configs](#environment-git-and-editor-configs)    
+- [Editor Configs, Environment, Git](#editor-configs-environment-git) 
+    - [.editconfig](#editconfig)
     - [.env](#env) 
     - [.gitattributes](#gitattributes)    
     - [.gitconfig](#gitconfig)
-    - [.editconfig](#editconfig)
+    - [config.yml](#configyml)
 - [Build Automation](#build-automation)
     - [makefile](#makefile) 
 - [DNS](#dns)
@@ -122,8 +123,14 @@ A [Software License](https://en.wikipedia.org/wiki/Software_license) specifies t
 
 <hr>
 
-# Environment, Git and Editor Configs
+# Editor Configs, Environment, Git
 
+## .editconfig 
+ 
+A .editconfig is a dotfile in which a developer or project maintainers can specify local editor preferences. For example, if developers are working on different operating systems (Linux, Mac OS, Windows), .editconfig settings can be used to standardize line endings across all machines. 
+ 
+ * [EditorConfig](http://editorconfig.org)
+ 
 ## .env
 
 A .env file is a dotfile used to store environmental variables. Beware pushing a .env file to a public repo. Include the .env in the .gitignore (see below), or, set the environmental variables through the command line/bash or host dashboard.
@@ -144,11 +151,7 @@ A .gitconfig is a dotfile in which a developer or project maintainers can specif
 https://git-scm.com/docs/git-config
 --> 
  
-## .editconfig 
- 
-A .editconfig is a dotfile in which a developer or project maintainers can specify local editor preferences. For example, if developers are working on different operating systems (Linux, Mac OS, Windows), .editconfig settings can be used to standardize line endings across all machines. 
- 
- * [EditorConfig](http://editorconfig.org)
+## config.yml 
  
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
