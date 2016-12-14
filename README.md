@@ -22,6 +22,8 @@ Table of Contents
     - [.editconfig](#editconfig)
 - [Build Automation](#build-automation)
     - [makefile](#makefile) 
+- [DNS](#dns)
+    - [CNAME](#cname)
 - [Advanced Work Flow](#advanced-work-flow)
     - [Git Flow](#git-flow)
     - [A Successful Git Branching Model](#a-successful-git-branching-model)
@@ -161,6 +163,16 @@ A [makefile](https://en.wikipedia.org/wiki/Makefile) contains code for build aut
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
 <hr> 
+
+# DNS   
+
+## CNAME
+ 
+A [CNAME](https://en.wikipedia.org/wiki/CNAME_record) file is used to specify a domain name.
+ 
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
+<hr>
 
 # Advanced Work Flow
 
