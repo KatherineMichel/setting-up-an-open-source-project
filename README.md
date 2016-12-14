@@ -20,6 +20,8 @@ Table of Contents
     - [.gitattributes](#gitattributes)    
     - [.gitconfig](#gitconfig)
     - [.editconfig](#editconfig)
+- [Automation)    
+    - [makefile](#makefile) 
 - [Advanced Work Flow](#advanced-work-flow)
     - [Git Flow](#git-flow)
     - [A Successful Git Branching Model](#a-successful-git-branching-model)
@@ -150,6 +152,16 @@ A .editconfig is a dotfile in which a developer or project maintainers can speci
 
 <hr> 
  
+# Automation   
+
+## makefile 
+ 
+A [makefile](https://en.wikipedia.org/wiki/Makefile) contains code for build automation. 
+ 
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
+<hr> 
+
 # Advanced Work Flow
 
 ## Git Flow
