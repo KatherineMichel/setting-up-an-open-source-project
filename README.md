@@ -20,7 +20,7 @@ Table of Contents
     - [.gitattributes](#gitattributes)    
     - [.gitconfig](#gitconfig)
     - [.editconfig](#editconfig)
-- [Build Automation)(#build-automation)
+- [Build Automation](#build-automation)
     - [makefile](#makefile) 
 - [Advanced Work Flow](#advanced-work-flow)
     - [Git Flow](#git-flow)
