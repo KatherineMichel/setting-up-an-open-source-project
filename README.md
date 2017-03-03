@@ -344,6 +344,10 @@ A pull request is a submission of a proposed change to a code base.
 
 [Code review](https://en.wikipedia.org/wiki/Code_review) is examination of code to determine quality. 
 
+## Branch Protection
+
+[Branch Protection](https://help.github.com/articles/about-protected-branches) prevents collaborators from making irrevocable changes to the branch. 
+
 ## Repository Statistics
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
