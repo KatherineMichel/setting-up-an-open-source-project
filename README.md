@@ -15,6 +15,7 @@ Table of Contents
     - [README.md](#readmemd)
     - [Wiki](#wiki)
     - [LICENSE.md](#licensemd)
+    - [Presentation](#presentation)
 - [Editor Configs, Environment, Git](#editor-configs-environment-git) 
     - [.editconfig](#editconfig)
     - [.env](#env) 
@@ -118,6 +119,12 @@ A [Software License](https://en.wikipedia.org/wiki/Software_license) specifies t
 
 * [GitHub Choose a License](http://choosealicense.com)
 * [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing) 
+
+## Presentation
+
+<!--
+https://gitpitch.com/KatherineMichel/setting-up-an-open-source-project
+-->
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
