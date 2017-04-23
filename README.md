@@ -122,9 +122,7 @@ A [Software License](https://en.wikipedia.org/wiki/Software_license) specifies t
 
 ## Presentation
 
-<!--
-https://gitpitch.com/KatherineMichel/setting-up-an-open-source-project
--->
+Consider adding a presentation using [GitPitch](https://gitpitch.com). Create a [PITCHME.md](PITCHME.md) using markdown. A presentation URL such as [the one for this repo](https://gitpitch.com/KatherineMichel/setting-up-an-open-source-project), will be automatically created. 
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
