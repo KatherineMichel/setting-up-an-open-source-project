@@ -455,6 +455,9 @@ GitHub Markdown Documentation
 * [GitHub Mastering Markdown Tutorial](https://guides.github.com/features/mastering-markdown)
 * [Enterprise Markdown Cheat Sheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
 
+Presentation Tools
+* [GitPitch](https://gitpitch.com)
+
 Project Funding
 * [Lemonade Stand](https://github.com/nayafia/lemonade-stand)
 
