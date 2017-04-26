@@ -135,6 +135,7 @@ Consider adding a presentation using [GitPitch](https://gitpitch.com). Create a 
 A .editconfig is a dotfile in which a developer or project maintainers can specify local editor preferences. For example, if developers are working on different operating systems (Linux, Mac OS, Windows), .editconfig settings can be used to standardize line endings across all machines. 
  
  * [EditorConfig](http://editorconfig.org)
+ * [EditorConfig Plugins](http://editorconfig.org/#download)
  
 ## .env
 
