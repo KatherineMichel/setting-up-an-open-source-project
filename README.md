@@ -173,6 +173,10 @@ https://git-scm.com/docs/git-config
  
 A [makefile](https://en.wikipedia.org/wiki/Makefile) contains code for build automation. 
  
+## Earthly
+
+An [Earthfile](https://earthly.dev/) contains code for containerized build automation.
+ 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
 <hr> 
